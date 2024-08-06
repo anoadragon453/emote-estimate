@@ -1,0 +1,814 @@
+{
+  "content": {
+    "images": {
+      "Astrobara": {
+        "body": "Astrobara",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 10228,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/KWaOrzRFMvWuMKvBXJNeCdzf"
+      },
+      "Discord": {
+        "body": "Discord",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5992,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/yXONqHJBISKZCmIUIluPkEXF"
+      },
+      "Explode": {
+        "body": "Explode",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 7716,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/truWfqsZkevohmoFDHctlPkL"
+      },
+      "Facebook": {
+        "body": "Facebook",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5216,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/WuvuerWYYdRujmfaKrawdXYQ"
+      },
+      "FingergunsJeb": {
+        "body": "FingergunsJeb",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6648,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/pvdhirgRprKGoFsWvXBOvOZZ"
+      },
+      "FingergunsVal": {
+        "body": "FingergunsVal",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6672,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/nuvYdnbHxkbZmXHIDQSfiFtS"
+      },
+      "Instagram": {
+        "body": "Instagram",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6784,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/YeBKOgVihHwqdUHermhEdLwi"
+      },
+      "JebBlank": {
+        "body": "JebBlank",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5216,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/TSOGuzvnRvDPzhYCUcBDQSXa"
+      },
+      "JebCool": {
+        "body": "JebCool",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5186,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/ZZGRqcIxveBandHjWzumQLOR"
+      },
+      "JebCry": {
+        "body": "JebCry",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5854,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/jJowatnIjOEDotXdprAIsZID"
+      },
+      "JebDaze": {
+        "body": "JebDaze",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6424,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/BxPwxLNnNGdOmdQiuOmjwDCU"
+      },
+      "JebDerp": {
+        "body": "JebDerp",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5500,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/UHRzyeUodaTtRkwUusSKcPwc"
+      },
+      "JebEvil": {
+        "body": "JebEvil",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5744,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/ouyrxnfpfKgpTqjkbIKEnAej"
+      },
+      "JebGrumpy": {
+        "body": "JebGrumpy",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5292,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/DBtanYBDnxMFGvRLkddxYdBr"
+      },
+      "JebHappy": {
+        "body": "JebHappy",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5368,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/KXwDASSGTXPdKybVVGdQHcuv"
+      },
+      "JebLaugh": {
+        "body": "JebLaugh",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 7078,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/svEBeTNFCxJCNFJSWjetkcIj"
+      },
+      "JebLooking": {
+        "body": "JebLooking",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 10198,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/vDguzgMMwrNAxunGDKgRhmtw"
+      },
+      "JebMonocle": {
+        "body": "JebMonocle",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5728,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/txMEoVLifdNwRlcksikNfLHg"
+      },
+      "JebNo": {
+        "body": "JebNo",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 8900,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/EmDVHeQfGmQidfLfczUTSUHR"
+      },
+      "JebPanic": {
+        "body": "JebPanic",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5762,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/UvTqonayPOFQgHuUshMEhgdv"
+      },
+      "JebSad": {
+        "body": "JebSad",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5006,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/UTLAUJcnKOkXJQaRpXmcArRK"
+      },
+      "JebSkeptical": {
+        "body": "JebSkeptical",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6316,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/ZcLkfxQLRRnNlcDnMHhBnIXE"
+      },
+      "JebStarry": {
+        "body": "JebStarry",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6892,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/ZVHylXJvQUSHwHOYUzKWDkgp"
+      },
+      "JebSus": {
+        "body": "JebSus",
+        "info": {
+          "h": 62,
+          "mimetype": "image/webp",
+          "size": 8316,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/aNopXpIWYihSDSWKbvDaRbKM"
+      },
+      "JebUnalive": {
+        "body": "JebUnalive",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6542,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/HoLHaoNvDsJRYWEsfQIqSojn"
+      },
+      "JebWink": {
+        "body": "JebWink",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5726,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/QNAUmimozPcjXlZCXnNtbyrn"
+      },
+      "JebWoah": {
+        "body": "JebWoah",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6582,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/mswnyItpmQeWvBijiMoPWijA"
+      },
+      "JebYes": {
+        "body": "JebYes",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 9664,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/NaRHlgWzTPtjQmOBuANnTxtl",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "Kekbal": {
+        "body": "Kekbal",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 7788,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/dxOFLBvfXuDLKSRtjYANYwkW"
+      },
+      "Kerbuhhhh": {
+        "body": "Kerbuhhhh",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 7516,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/OxkOvYNltxDbMwZuCEppSdTZ"
+      },
+      "Kerbull": {
+        "body": "Kerbull",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 4920,
+          "w": 51
+        },
+        "url": "mxc://nheko.im/oiDVeBRgNcClqZnNXwYnLSBT"
+      },
+      "Klueless": {
+        "body": "Klueless",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5620,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/CmGZPvaaJrSQTlELREfZuCwI"
+      },
+      "Konspiracey": {
+        "body": "Konspiracey",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6918,
+          "w": 34
+        },
+        "url": "mxc://nheko.im/OupUdPiOwiNlsavMvDjOmWYr"
+      },
+      "Kwheeze": {
+        "body": "Kwheeze",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 8000,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/nKDHRpzazPVrnWpbVfZGZBux"
+      },
+      "Leek": {
+        "body": "Leek",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 3864,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/AnbdcZRHQeQpYOMnbUFZKFXs"
+      },
+      "PD": {
+        "body": "PD",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 2074,
+          "w": 31
+        },
+        "url": "mxc://nheko.im/XDRqmgqgCFmOEHUlzlWQGQKL"
+      },
+      "Reddit": {
+        "body": "Reddit",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6312,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/BrxJtizFFjXaEmhgirTsPnHG"
+      },
+      "RocketFlying": {
+        "body": "RocketFlying",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5940,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/wapcSjgrVrtmqrqNwKFwWjWR"
+      },
+      "SaluteJeb": {
+        "body": "SaluteJeb",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6364,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/GGeJJdSMTFbbtSKaGqWTuqPU"
+      },
+      "SaluteVal": {
+        "body": "SaluteVal",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6234,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/YGautrNWsLyaWWdmZqcNZbED"
+      },
+      "ServerLogo": {
+        "body": "ServerLogo",
+        "info": {
+          "h": 64,
+          "mimetype": "image/gif",
+          "size": 180485,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/mbBeQTThSQocakXPvlLDroLi"
+      },
+      "Snacks": {
+        "body": "Snacks",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 7204,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/loBaywaOUNlyGkxXBFvyJdAJ"
+      },
+      "Steam": {
+        "body": "Steam",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 7384,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/RuhdzcRLRNxBXuebkgAImqMN"
+      },
+      "SusJeb": {
+        "body": "SusJeb",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5344,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/fWuhQDqLDfnSygOFOrVRqUtt"
+      },
+      "SusVal": {
+        "body": "SusVal",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5514,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/stnbccuBjucneEDJHrmkTNzl"
+      },
+      "TikTok": {
+        "body": "TikTok",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 4108,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/CvVZPLQrXBxiKsfnbOFrhyYg"
+      },
+      "Twitter": {
+        "body": "Twitter",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5596,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/NwNGUBrqvkRpYnQahQSnmKID"
+      },
+      "ValBlank": {
+        "body": "ValBlank",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5596,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/cTCWnFbNLOndCDGcaiwSpSPh"
+      },
+      "ValCool": {
+        "body": "ValCool",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5464,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/bWqjnGDtBXjjHdJXmMiHcraG"
+      },
+      "ValCry": {
+        "body": "ValCry",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6182,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/jIuCuRDAQSBPtsndxPrldPue"
+      },
+      "ValDaze": {
+        "body": "ValDaze",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6496,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/iwZHaJxLHJYkHpXHxUUuagZQ"
+      },
+      "ValDerp": {
+        "body": "ValDerp",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5356,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/XrwLNiOOcsDshJEnFvguTsPj"
+      },
+      "ValEvil": {
+        "body": "ValEvil",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5888,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/dvaPpWWoloqHvcZgRXKfnqej"
+      },
+      "ValGrumpy": {
+        "body": "ValGrumpy",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5756,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/CdQnHCiQBxGqeKUDVZvfjPWr"
+      },
+      "ValHappy": {
+        "body": "ValHappy",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5616,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/mmCXdDgsIXVBrUTRFwdhvxcQ"
+      },
+      "ValLaugh": {
+        "body": "ValLaugh",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 7010,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/KgkBfDmweLkLyLoNEppmTspw"
+      },
+      "ValMonocle": {
+        "body": "ValMonocle",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5794,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/vcrwEiwqwgZqAjNKCeNVwJMn"
+      },
+      "ValPanic": {
+        "body": "ValPanic",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5814,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/jKBYjDtbBuKWrSxhWwMUTASl"
+      },
+      "ValSad": {
+        "body": "ValSad",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5306,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/BumMHwRQRWMeLVPFlBTZCcEG"
+      },
+      "ValSkeptical": {
+        "body": "ValSkeptical",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6212,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/GCVUOXQuTpolOOEXuAUxPMtu"
+      },
+      "ValStarry": {
+        "body": "ValStarry",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6488,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/qOYKRricTGPEmWUQvtGdbxib"
+      },
+      "ValUnalive": {
+        "body": "ValUnalive",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6200,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/nrcmfOSUrGIvXttbeaSrjySH"
+      },
+      "ValWink": {
+        "body": "ValWink",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5888,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/GKjexvRwpOfLHvkwtpgbCjxx"
+      },
+      "ValWoah": {
+        "body": "ValWoah",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6536,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/orSAyuDuPnPobgzoRgLIuFfX"
+      },
+      "YouTube": {
+        "body": "YouTube",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 1388,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/dFQkxFBaLLvJLqbUCgxWLUHR"
+      },
+      "babykraken": {
+        "body": "babykraken",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 6914,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/WGyuAJKPsbMZhUEKNJGIiWbK"
+      },
+      "buh": {
+        "body": "buh",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 9772,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/fPgrFQnPGssDZYvqGyQXOAkj"
+      },
+      "goldenkerbal": {
+        "body": "goldenkerbal",
+        "info": {
+          "h": 62,
+          "mimetype": "image/webp",
+          "size": 8642,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/EdhUzyPwkMDQsvAJBcXZmlcC"
+      },
+      "greenkerbal": {
+        "body": "greenkerbal",
+        "info": {
+          "h": 62,
+          "mimetype": "image/webp",
+          "size": 8552,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/LEaOadxANPomMImSsraTfyYm"
+      },
+      "kerbdeadinside": {
+        "body": "kerbdeadinside",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 7972,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/rsogfldryckYhhGrYylAPDrr"
+      },
+      "kerbnoooooo": {
+        "body": "kerbnoooooo",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 8032,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/tTxvsiHoNVwCBXoNCPpwzfhI"
+      },
+      "kerbsus": {
+        "body": "kerbsus",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 7898,
+          "w": 56
+        },
+        "url": "mxc://nheko.im/FovVypylvvaLInujhiJImukY"
+      },
+      "kippee": {
+        "body": "kippee",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 7340,
+          "w": 63
+        },
+        "url": "mxc://nheko.im/jhjXPqnpyEWfcEbCSypwxqdR"
+      },
+      "stop": {
+        "body": "stop",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 2956,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/GPNnnQfbHhrnIOPhmrsMluyq"
+      },
+      "this": {
+        "body": "this",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 3226,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/qEDEbOoiVMUlRMheOFBqHMQE"
+      },
+      "thisisnominal": {
+        "body": "thisisnominal",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 14128,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/xCQhlUVyHMMsNHeoDJavxmFx"
+      },
+      "thumbsup": {
+        "body": "thumbsup",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 3932,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/wwvkbFiCloQarcodoAJGcUeQ"
+      },
+      "umactuallyPAIGE": {
+        "body": "umactuallyPAIGE",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 7240,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/YwldRPKPQRAQucaBVIiXhSxd"
+      },
+      "wave": {
+        "body": "wave",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 5640,
+          "w": 64
+        },
+        "url": "mxc://nheko.im/FpeujXsTzWejYZxTekBQJqaw"
+      }
+    },
+    "pack": {
+      "attribution": "https://discord.gg/InterceptGames",
+      "avatar_url": "mxc://nheko.im/NaRHlgWzTPtjQmOBuANnTxtl",
+      "display_name": "KSP Discord emoji"
+    }
+  },
+  "origin_server_ts": 1678894755744,
+  "sender": "@lorendb:nheko.im",
+  "state_key": "ksp-discord-emoji",
+  "type": "im.ponies.room_emotes",
+  "unsigned": {
+    "age": 44067103225
+  },
+  "event_id": "$Tviu_OZ-Ajd6oimJMBYXtRBPE9apoZCRBQq-2W_8fFg",
+  "room_id": "!XLoCAofPgNmFzcQSGn:nheko.im"
+}

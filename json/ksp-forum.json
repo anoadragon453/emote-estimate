@@ -1,0 +1,233 @@
+{
+  "content": {
+    "images": {
+      "jebawe": {
+        "body": "Jeb in awe",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 2635,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/dXpZfreCylZQgyKoWIELndWe"
+      },
+      "jebblush": {
+        "body": "Blushing Jeb",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 2871,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/vqfFfvcdAYrRWOkXDAXIUPsJ"
+      },
+      "jebcry": {
+        "body": "Jeb crying",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 2758,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/PvCESYZznBSgoapnHmXGHAQS"
+      },
+      "jebgrin": {
+        "body": "Grinning Jeb",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 2564,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/kQkeboNSHuFhxQcxCYxEOPZG"
+      },
+      "jebhappy": {
+        "body": "Happy Jeb",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 2707,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/nfRPXjChWbKewldVyHMDXDPQ"
+      },
+      "jebjoy": {
+        "body": "Jeb with tears of joy",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 3015,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/HhvsdPENyKINyxwfJJCisNBS"
+      },
+      "jeblove": {
+        "body": "Jeb with heart eyes",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 3036,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/KbMIFtfdbOlaxenklsSUBYrm"
+      },
+      "jebsad": {
+        "body": "Sad Jeb",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 2707,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/FOMjIQSMiHWhmcNgyLkEkCjL"
+      },
+      "jebsob": {
+        "body": "Sobbing Jeb",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 2724,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/hFuMPmqFFHcgRiVbSzWSPKNH"
+      },
+      "jebwink": {
+        "body": "Winking Jeb",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 2791,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/HqHQOVyklCAPWFkUUTgJDHPM"
+      },
+      "valawe": {
+        "body": "Val in awe",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 4805,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/nbLRtVPbqarBylIObCVAvoHq"
+      },
+      "valblush": {
+        "body": "Blushing Val",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 4999,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/BhxBILMTrhplETcEhRLQmSpx"
+      },
+      "valcry": {
+        "body": "Crying Val",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 5123,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/cAMQNhxvMDhTvKJFrYntcPCX"
+      },
+      "valgrin": {
+        "body": "Grinning Val",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 4946,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/zrgycEnpFLLcuJwmTjfeNqxA"
+      },
+      "valhappy": {
+        "body": "Happy Val",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 4992,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/MGhDBSFEHXpegVegwtfdoWgp"
+      },
+      "valjoy": {
+        "body": "Val with tears of joy",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 5302,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/ATRQiBkdrZXLqAZtgGmyiMzw"
+      },
+      "vallove": {
+        "body": "Val with heart eyes",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 5086,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/LGnMtuHpckFPLzuJlHmgzHbs"
+      },
+      "valsad": {
+        "body": "Sad Val",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 4942,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/glviArGuouxtDODMwVxwqgvH"
+      },
+      "valshock": {
+        "body": "Shocked Val",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 4994,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/yqjWBjOePHkJAdHJkcNiRsqD"
+      },
+      "valsob": {
+        "body": "Sobbing Val",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 4821,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/UrLppikikhNrHkwEQRbEKsNZ"
+      },
+      "valwink": {
+        "body": "Winking Val",
+        "info": {
+          "h": 30,
+          "mimetype": "image/png",
+          "size": 4977,
+          "w": 30
+        },
+        "url": "mxc://nheko.im/tiOJgaYKnzPIyMuXcXVJlktY"
+      }
+    },
+    "pack": {
+      "attribution": "https://forum.kerbalspaceprogram.com/index.php?/topic/200244-have-you-seen-the-new-ksp-2-emojis",
+      "avatar_url": "mxc://nheko.im/nfRPXjChWbKewldVyHMDXDPQ",
+      "display_name": "Kerbal Space Program forum emoji",
+      "usage": [
+        "emoticon"
+      ]
+    }
+  },
+  "origin_server_ts": 1678893692443,
+  "sender": "@lorendb:nheko.im",
+  "state_key": "ksp-forum-emoji",
+  "type": "im.ponies.room_emotes",
+  "unsigned": {
+    "age": 44068166526
+  },
+  "event_id": "$1Xkgq6UXAu9T1w7pPsLKuukOuelZTQ57SvUCw_LSiME",
+  "room_id": "!XLoCAofPgNmFzcQSGn:nheko.im"
+}

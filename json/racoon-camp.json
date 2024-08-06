@@ -1,0 +1,183 @@
+{
+  "content": {
+    "images": {
+      "raccoon": {
+        "body": "Raccoon",
+        "info": {
+          "h": 100,
+          "mimetype": "image/png",
+          "size": 4807,
+          "w": 100
+        },
+        "url": "mxc://tastytea.de/YvfMVHwukUTpFqGxvSvMyNnr",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "raccoon_blackbloc": {
+        "body": "Raccoon with scarf over face",
+        "info": {
+          "h": 100,
+          "mimetype": "image/png",
+          "size": 5998,
+          "w": 100
+        },
+        "url": "mxc://tastytea.de/uMXDeoSVoznqATqWdAOGjJab",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "raccoon_blackbloc_pet": {
+        "body": "Raccoon with scarf over face getting petted",
+        "info": {
+          "h": 100,
+          "mimetype": "image/png",
+          "size": 8960,
+          "w": 100
+        },
+        "url": "mxc://tastytea.de/SERNkVdUvQnPYMKhpvTnhvVO",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "raccoon_coffee": {
+        "body": "Coffee-drinking Raccoon",
+        "info": {
+          "h": 100,
+          "mimetype": "image/png",
+          "size": 8272,
+          "w": 100
+        },
+        "url": "mxc://tastytea.de/diCgOgmOlbWUqonnEmrLZNKa",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "raccoon_flamethrower": {
+        "body": "Raccoon with flame-thrower",
+        "info": {
+          "h": 235,
+          "mimetype": "image/png",
+          "size": 43096,
+          "w": 235
+        },
+        "url": "mxc://tastytea.de/kyhPjJTxxOFwmtMzmojlggOe",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "raccoon_heart": {
+        "body": "Raccoon with heart in hands",
+        "info": {
+          "h": 100,
+          "mimetype": "image/png",
+          "size": 7405,
+          "w": 100
+        },
+        "url": "mxc://tastytea.de/jKxuzywjNyLstmQLlPkhociR",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "raccoon_melt": {
+        "body": "Melting Raccoon",
+        "info": {
+          "h": 100,
+          "mimetype": "image/png",
+          "size": 5792,
+          "w": 100
+        },
+        "url": "mxc://tastytea.de/ExdhnEHBINwEEPbRoDUlyTzj",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "raccoon_peek": {
+        "body": "Peeking Raccoon",
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 17630,
+          "w": 128
+        },
+        "url": "mxc://tastytea.de/dfiPNbYPbVvGSVUlJuKJAQVY",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "raccoon_peek_wall": {
+        "body": "Raccoon peeking from behind a wall",
+        "info": {
+          "h": 100,
+          "mimetype": "image/png",
+          "size": 5338,
+          "w": 100
+        },
+        "url": "mxc://tastytea.de/BiwGnlKTlNMZyXMQCJLgKVah",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "raccoon_tea": {
+        "body": "Tea-drinking Raccoon",
+        "info": {
+          "h": 100,
+          "mimetype": "image/png",
+          "size": 8272,
+          "w": 100
+        },
+        "url": "mxc://tastytea.de/VHXskuFqHvXHKDWQqvonnJBn",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "raccoon_tinfoilhat": {
+        "body": "Raccoon with tinfoil hat",
+        "info": {
+          "h": 139,
+          "mimetype": "image/png",
+          "size": 47846,
+          "w": 107
+        },
+        "url": "mxc://tastytea.de/OBdvnlQoKAOBclAeMzMWPwIb",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "raccoon_trash": {
+        "body": "Raccoon in trash can",
+        "info": {
+          "h": 120,
+          "mimetype": "image/png",
+          "size": 6999,
+          "w": 120
+        },
+        "url": "mxc://tastytea.de/dKSHGuMBHnURszqMSlnFyomw"
+      }
+    },
+    "pack": {
+      "avatar_url": null,
+      "display_name": "Raccoons"
+    }
+  },
+  "origin_server_ts": 1704823789190,
+  "sender": "@tastytea:tastytea.de",
+  "state_key": "Raccoons",
+  "type": "im.ponies.room_emotes",
+  "unsigned": {
+    "replaces_state": "$PhzZ0xRJW_urSEgi3WStxMIlvmo4Gt8y5VQZvDFp0Y4"
+  },
+  "event_id": "$f_7v70XjICahrQe9u3FTfTsXHQFPeZmn2ZFfDCVvjvI",
+  "room_id": "!zeiOoThAHmEJeAlvvI:pixie.town"
+}

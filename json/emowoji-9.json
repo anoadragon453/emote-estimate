@@ -1,0 +1,3400 @@
+{
+  "content": {
+    "images": {
+      "07neko": {
+        "info": {
+          "h": 200,
+          "mimetype": "image/png",
+          "size": 2886,
+          "w": 200
+        },
+        "url": "mxc://gaykitty.lol/MUttrzFu72IyVZee4O25ThmZols4cjJZ"
+      },
+      "100trans": {
+        "info": {
+          "h": 144,
+          "mimetype": "image/png",
+          "size": 3566,
+          "w": 150
+        },
+        "url": "mxc://gaykitty.lol/vDBEcCiRCZMuXJM4SwS0wtRwjFRguBg8"
+      },
+      "Aldi_Sued": {
+        "info": {
+          "h": 1010,
+          "mimetype": "image/png",
+          "size": 102449,
+          "w": 1010
+        },
+        "url": "mxc://gaykitty.lol/sftOCyhmqreswWjlaFpHdtZvXhFtQjmI"
+      },
+      "BlobhajReach": {
+        "info": {
+          "h": 800,
+          "mimetype": "image/png",
+          "size": 33105,
+          "w": 800
+        },
+        "url": "mxc://gaykitty.lol/FCBtexQfKCuvisEBgVyPwpdMTCACyt2Q"
+      },
+      "Blobhaj_Blanket_Blue": {
+        "info": {
+          "h": 800,
+          "mimetype": "image/png",
+          "size": 32374,
+          "w": 800
+        },
+        "url": "mxc://gaykitty.lol/KUY7F3aPfZHvVkL6gMgsqCn88h8Ojn5X"
+      },
+      "Blobhaj_Flag_Aromantic": {
+        "info": {
+          "h": 512,
+          "mimetype": "image/png",
+          "size": 25650,
+          "w": 512
+        },
+        "url": "mxc://gaykitty.lol/9Ac5gAx9NpJnjnZRXlD0Ld7xjAGXgRlD"
+      },
+      "Blobhaj_Flag_Transfemme": {
+        "info": {
+          "h": 512,
+          "mimetype": "image/png",
+          "size": 23107,
+          "w": 512
+        },
+        "url": "mxc://gaykitty.lol/6jO9QfrB2XDRgZo6WA2furQWYQ2kMgQ2"
+      },
+      "Blobhaj_Heart": {
+        "info": {
+          "h": 800,
+          "mimetype": "image/png",
+          "size": 16560,
+          "w": 800
+        },
+        "url": "mxc://gaykitty.lol/WF7O0tKxopLz8ZfzeG2lkHXRxM58O7NW"
+      },
+      "Blobhaj_Mlem": {
+        "info": {
+          "h": 800,
+          "mimetype": "image/png",
+          "size": 23639,
+          "w": 800
+        },
+        "url": "mxc://gaykitty.lol/db9EYzJ55motd3AaPOfvzFVG86SkJrG3"
+      },
+      "Blobhaj_Read_Octopus": {
+        "info": {
+          "h": 800,
+          "mimetype": "image/png",
+          "size": 15773,
+          "w": 800
+        },
+        "url": "mxc://gaykitty.lol/zdakCXCQz7XBz38gkGz77GMlo3HcgPiL"
+      },
+      "FawnHeart_Au": {
+        "info": {
+          "h": 256,
+          "mimetype": "image/png",
+          "size": 28804,
+          "w": 256
+        },
+        "url": "mxc://gaykitty.lol/3FzluvX68coagMEWgRgHv6iDt5huq5m8"
+      },
+      "KidNamedFinger": {
+        "info": {
+          "h": 474,
+          "mimetype": "image/png",
+          "size": 256321,
+          "w": 474
+        },
+        "url": "mxc://gaykitty.lol/IKIvmhuAqqKnlmgIUwGZhpsitKWUfcyh"
+      },
+      "Linktree": {
+        "info": {
+          "h": 300,
+          "mimetype": "image/png",
+          "size": 3451,
+          "w": 246
+        },
+        "url": "mxc://gaykitty.lol/sHq5JjyZ9JMRpzUOuBIq9mgYEMJ2MTDP"
+      },
+      "NepDespair": {
+        "info": {
+          "h": 432,
+          "mimetype": "image/png",
+          "size": 117487,
+          "w": 474
+        },
+        "url": "mxc://gaykitty.lol/8zicsej8eDL6qXBsszAmN1acIQpQXKLP"
+      },
+      "QueerCat": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 2154,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/7ATQZL1Gs2d6dOIeBtAdum6GJgFx3aZL"
+      },
+      "QueerCat_Intersex": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3214,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/rmxQWVdcSEfHOBgr5m9kucJ9uuGWVY6S"
+      },
+      "RosThis": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 29527,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/5P7Wm71pfbTscEvi0Fsn2KsvgeTBQu3d"
+      },
+      "Shiropuyo_doon": {
+        "info": {
+          "h": 100,
+          "mimetype": "image/png",
+          "size": 3340,
+          "w": 100
+        },
+        "url": "mxc://gaykitty.lol/DiuFcTbOHaGiG0m9IXB51KqHG9MC6vk8"
+      },
+      "Shiropuyo_hohoemi": {
+        "info": {
+          "h": 100,
+          "mimetype": "image/png",
+          "size": 5707,
+          "w": 100
+        },
+        "url": "mxc://gaykitty.lol/frRHDpYc3joy7Y4U1QlbkJ3EG4zPINbD"
+      },
+      "Shiropuyo_no": {
+        "info": {
+          "h": 100,
+          "mimetype": "image/png",
+          "size": 10190,
+          "w": 100
+        },
+        "url": "mxc://gaykitty.lol/J8gYUctml7dt5Tb1llevwriVH4UVndBe"
+      },
+      "Shiropuyo_odoroki": {
+        "info": {
+          "h": 100,
+          "mimetype": "image/png",
+          "size": 6992,
+          "w": 100
+        },
+        "url": "mxc://gaykitty.lol/Vy0Gxdo3UIx8izJZBwrBxLPl1rugZnmS"
+      },
+      "_ixkl1jb6_": {
+        "info": {
+          "h": 512,
+          "mimetype": "image/png",
+          "size": 24316,
+          "w": 512
+        },
+        "url": "mxc://gaykitty.lol/WjiNWtgv6BOJCyh1kr5qyhxe3GOA42ym"
+      },
+      "aardwolf": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 35043,
+          "w": 400
+        },
+        "url": "mxc://gaykitty.lol/72k7tTZ5YxxUxzLflSiql0BnPYxrwE0t"
+      },
+      "ablobcatcoffee": {
+        "info": {
+          "h": 112,
+          "mimetype": "image/png",
+          "size": 1770,
+          "w": 112
+        },
+        "url": "mxc://gaykitty.lol/mnnuQ5VuBVshU56h9DWqRbWCtBa1KIw8"
+      },
+      "ablobcatsweatsip": {
+        "info": {
+          "h": 118,
+          "mimetype": "image/png",
+          "size": 5059,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/jOyLOJGuVgKonZkUD0MZAllYhyItyxGc"
+      },
+      "acid": {
+        "info": {
+          "h": 704,
+          "mimetype": "image/png",
+          "size": 10561,
+          "w": 800
+        },
+        "url": "mxc://gaykitty.lol/OMr3RNDrUbcXHWkIl5bz2nh9TcJqRHc7"
+      },
+      "adhd_butterfly": {
+        "info": {
+          "h": 357,
+          "mimetype": "image/png",
+          "size": 36298,
+          "w": 357
+        },
+        "url": "mxc://gaykitty.lol/CiasCbgxK7yCuRIhkcJNnkmpRq7OhbZs"
+      },
+      "adif": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 5932,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/luUF3Igs17h3e4bEeWCIfOMc6Kyuum0U"
+      },
+      "agilis": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4631,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/FBgSTNeJpKHv06rcYx8mfkWP7h8PZo1v"
+      },
+      "ahvaz_metro": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 7905,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/WVTa5XAWqvypdS2GYjDApMzc3hI1V4cD"
+      },
+      "akko_blushmmpf": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 31238,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/ngt0L1q9CXyPKEMVqUH8J6cjuryo3yKG"
+      },
+      "akko_scream": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 32602,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/0r3z2uFe425MsKmm5Oqo7BeqfzFiK4uj"
+      },
+      "allgaeuexpress": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 5160,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/afTDTarNHxiWw9K7Lul1PyGhJTCOTeax"
+      },
+      "ameowalternate": {
+        "info": {
+          "h": 109,
+          "mimetype": "image/png",
+          "size": 3699,
+          "w": 109
+        },
+        "url": "mxc://gaykitty.lol/dHMZ7FUuJlisKiRxImAZ7LEvminhacBk"
+      },
+      "anarchy_heart": {
+        "info": {
+          "h": 877,
+          "mimetype": "image/png",
+          "size": 97104,
+          "w": 877
+        },
+        "url": "mxc://gaykitty.lol/nzPYFiGi25k1jLyfhyAraccmp8I1jA1X"
+      },
+      "anartrans_symbol": {
+        "info": {
+          "h": 100,
+          "mimetype": "image/png",
+          "size": 8294,
+          "w": 100
+        },
+        "url": "mxc://gaykitty.lol/6eH9R9v5nrjjZjd8q6Qf1hUggRhj6ItK"
+      },
+      "arduino": {
+        "info": {
+          "h": 48,
+          "mimetype": "image/png",
+          "size": 2954,
+          "w": 48
+        },
+        "url": "mxc://gaykitty.lol/VQMO7OtpnAkUhV33EBStcV1RIHPLGARI"
+      },
+      "aromantic_potion": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 15207,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/L7Ubc5dkv3O6oDXpOOSLaY5iCVqX5KQ7"
+      },
+      "arriva_logo": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 6998,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/jUD2w7cFwmFXcGx1n83pWkgx499J8Pnc"
+      },
+      "audhd": {
+        "info": {
+          "h": 250,
+          "mimetype": "image/png",
+          "size": 36958,
+          "w": 250
+        },
+        "url": "mxc://gaykitty.lol/cfywzCQPpvdbzY1hXNAhKg4VWQ9VNsqL"
+      },
+      "baba_g": {
+        "info": {
+          "h": 24,
+          "mimetype": "image/png",
+          "size": 355,
+          "w": 24
+        },
+        "url": "mxc://gaykitty.lol/SJjXlScbKXuCgl16rcDnkgg7oUBU8Ww1"
+      },
+      "baba_r": {
+        "info": {
+          "h": 24,
+          "mimetype": "image/png",
+          "size": 357,
+          "w": 24
+        },
+        "url": "mxc://gaykitty.lol/PE2YVuB5XqW39FgdUARVVN0MHdWHHWRj"
+      },
+      "baba_s": {
+        "info": {
+          "h": 24,
+          "mimetype": "image/png",
+          "size": 348,
+          "w": 24
+        },
+        "url": "mxc://gaykitty.lol/8wNGaXmmnq6CsucQx2R0JNNBktRFItgt"
+      },
+      "bakaMiku": {
+        "info": {
+          "h": 96,
+          "mimetype": "image/png",
+          "size": 19811,
+          "w": 96
+        },
+        "url": "mxc://gaykitty.lol/joDS2t5N7LQcf3RiTfcrEwGF88ZWc85E"
+      },
+      "bakaneru": {
+        "info": {
+          "h": 96,
+          "mimetype": "image/png",
+          "size": 19546,
+          "w": 96
+        },
+        "url": "mxc://gaykitty.lol/T8VkPD9FrxhucxaddNdMl8FC2TLeVsWx"
+      },
+      "baltimore_lrt": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 6688,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/DOeqmmLOWUahV4NKpva6x8c6IxMwZY1Q"
+      },
+      "barcelona_l11": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 2587,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/qbV3s5TIKfB2inPuV8O69FtTN8r62Xk6"
+      },
+      "barcelona_l5": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3197,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/WwwTlTL22p6V76ehrNVbaWvSPobBxo5H"
+      },
+      "berlin_rb12": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3205,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/fu40XRqi8ydVYLf3s1p2wvLtzUFzmyK6"
+      },
+      "berlin_rb25": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3363,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/GLpDTifcXdqe8liL0qdjkVCHFEgyzdpF"
+      },
+      "berlin_rb34": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3337,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/9ZaBjf4TXz5zut74H5Sh2T6KpPp1lE8e"
+      },
+      "berlin_rb91": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3342,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/3vyRmd2aAHIBaIdhW7oAe3j6We4amxZI"
+      },
+      "berlin_s1": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3721,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/XMoaQu9dnybnnpwKLSestpvcH29ILdm2"
+      },
+      "berlin_u6": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3125,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/1kJ0O9tXqdwq6eYB3I3zcxMIea6V20Vl"
+      },
+      "bg3_laezelB": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 33535,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/DBXzp804kADx8tPxjQrAPAwseJSSJJYF"
+      },
+      "bg3_wp": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 20900,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/jJ5LgbOaG7g6ulEfmKCqDCNH9aY74mJn"
+      },
+      "bh_flag_nonbinary": {
+        "info": {
+          "h": 1000,
+          "mimetype": "image/png",
+          "size": 45796,
+          "w": 1000
+        },
+        "url": "mxc://gaykitty.lol/YoSLcCt392JvbCGI4xnSXuXiDD7Q7tMZ"
+      },
+      "bh_flag_progress_right": {
+        "info": {
+          "h": 1000,
+          "mimetype": "image/png",
+          "size": 72563,
+          "w": 1000
+        },
+        "url": "mxc://gaykitty.lol/un9Im4K60BImQdDP6GFsaWyDvhBP9hWS"
+      },
+      "bhjflag_intersex": {
+        "info": {
+          "h": 1000,
+          "mimetype": "image/png",
+          "size": 47425,
+          "w": 1000
+        },
+        "url": "mxc://gaykitty.lol/N54GubwMYB08Lcd1ekzErMH0HsCozTi9"
+      },
+      "big_stick": {
+        "info": {
+          "h": 2,
+          "mimetype": "image/png",
+          "size": 302,
+          "w": 2048
+        },
+        "url": "mxc://gaykitty.lol/hDwtTnqC8uKDqJOZOGS6fhpubfwFNcib"
+      },
+      "bigender_flag": {
+        "info": {
+          "h": 64,
+          "mimetype": "image/png",
+          "size": 1685,
+          "w": 64
+        },
+        "url": "mxc://gaykitty.lol/tnkRXtiRrnefWk3zPdNe6Krez8ySxrki"
+      },
+      "bitwarden": {
+        "info": {
+          "h": 256,
+          "mimetype": "image/png",
+          "size": 11339,
+          "w": 256
+        },
+        "url": "mxc://gaykitty.lol/hWioI8iUUzf6aqSiLZSSyvO8hxmcdDbt"
+      },
+      "black_sparkling_heart": {
+        "info": {
+          "h": 225,
+          "mimetype": "image/png",
+          "size": 4457,
+          "w": 225
+        },
+        "url": "mxc://gaykitty.lol/jc2SGX7ZYWnpG0qLOVo6xPiuDpZ6wQvK"
+      },
+      "blahajchkat3r": {
+        "info": {
+          "h": 301,
+          "mimetype": "image/png",
+          "size": 32102,
+          "w": 289
+        },
+        "url": "mxc://gaykitty.lol/OPZbTOkPlwwBNXwUL159rCrAKmgD1SBn"
+      },
+      "blb": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 5197,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/SpA7VcXinBMdwn2O8IJbUCqJi33MTrAZ"
+      },
+      "blebcat": {
+        "info": {
+          "h": 451,
+          "mimetype": "image/png",
+          "size": 23417,
+          "w": 393
+        },
+        "url": "mxc://gaykitty.lol/TkdVx2BrtFiKYtCzrftoGi79ututWPl8"
+      },
+      "bleh": {
+        "info": {
+          "h": 950,
+          "mimetype": "image/png",
+          "size": 939531,
+          "w": 1900
+        },
+        "url": "mxc://gaykitty.lol/OJg6mAg9B31tKcgW2ZZcALqN1ejXQajr"
+      },
+      "blep": {
+        "info": {
+          "h": 35,
+          "mimetype": "image/png",
+          "size": 533,
+          "w": 35
+        },
+        "url": "mxc://gaykitty.lol/LUdkx2GogWa8E4uoSo4dmYdhZl0a91Mt"
+      },
+      "blobCatGrumpy": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 4383,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/g7BFnK8jJZcjdQ93N3hQdBXqTm95zHmv"
+      },
+      "blob_raccoon_heart": {
+        "info": {
+          "h": 206,
+          "mimetype": "image/png",
+          "size": 15343,
+          "w": 206
+        },
+        "url": "mxc://gaykitty.lol/lamA7uavTaghQsQYnfzGUGeDvjXSkKim"
+      },
+      "blobblush": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 9084,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/4B2zfrsUZ19MAUToMlaFL6vitHEe0fvt"
+      },
+      "blobboneaww": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 8313,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/eAhp9SU8QyalbX3jgKruZtfBNs0w354r"
+      },
+      "blobboneshh": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 15483,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/dFUJY2rcxZP57z28rFd56xTi5YXFYKq2"
+      },
+      "blobcatUno": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 12471,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/OpL8v2WvjNo2OI7Z2WFeap2JjTsCxJmJ"
+      },
+      "blobcat_derp": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 1653,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/wSqyXvvAtDcPHlfnn00GbXgpSDDAZdG5"
+      },
+      "blobcat_gitea": {
+        "info": {
+          "h": 500,
+          "mimetype": "image/png",
+          "size": 33938,
+          "w": 500
+        },
+        "url": "mxc://gaykitty.lol/1YCUgWpDYJsNjYT70vzAazjfpL0n4v1t"
+      },
+      "blobcat_poly_cuddles": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 14751,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/HA7db22Q1MRJweiBsaKMR3BbQwLigSqa"
+      },
+      "blobcatblackwhite": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 7967,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/DA9erGiPTKgpzaSRWHVFMrApHqF3pn1X"
+      },
+      "blobcatblinkrev": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3647,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/ZZgyybMPDnJtQscmb5pUngEoQrNaXQdh"
+      },
+      "blobcatcomfyevil": {
+        "info": {
+          "h": 222,
+          "mimetype": "image/png",
+          "size": 40127,
+          "w": 250
+        },
+        "url": "mxc://gaykitty.lol/c2PElt1UrOwkoMk5rek6CE9Qh2yqLnPm"
+      },
+      "blobcatdisknom": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 15174,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/bWT7eWXGuxxuqP5Cjga8ES0eUNb3ITMh"
+      },
+      "blobcatflopgoof": {
+        "info": {
+          "h": 200,
+          "mimetype": "image/png",
+          "size": 16562,
+          "w": 200
+        },
+        "url": "mxc://gaykitty.lol/fhN6tCQievubzHNOegvF5LjB8nWZvBPG"
+      },
+      "blobcatfluffevil": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 11258,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/IdnGSBc9OxQ8EDm2BcZ3h7Iop8mJfgXc"
+      },
+      "blobcatghostreach": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 14153,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/dDdJpMHw7EMEYtFj1dfszafifKDC4B7K"
+      },
+      "blobcathighfive": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 11244,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/B6e15rYAZ3Z2FMgmTklx2fCk4ios5knF"
+      },
+      "blobcatjoyboxhero": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 11513,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/46ur3MM1yZKDVKinBZgpiFbelIpjPy4l"
+      },
+      "blobcatnative": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 14402,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/Qk5i9RpuluSoUaiC4Xy0PR5ykRzuyooc"
+      },
+      "blobcatoverlycute": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 13184,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/HgN1x5rAdZJQJYUErtnGguGCsZ14YRyM"
+      },
+      "blobcatpopsicle": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 14346,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/q2g6HwnP1waRdItg1JH6Qzw0NamT67KD"
+      },
+      "blobcatpopsicle2": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 14676,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/hepqToAFAYYgu4n02FFm7RvdjncjWMWo"
+      },
+      "blobcatreinderp": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 15703,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/Q7HIA85FYaWnuNRz5mj7VM6RtDct6LqV"
+      },
+      "blobcatshy": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 13819,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/h7PmY6WQ3n239S4gsx8c7KQmFXecmjil"
+      },
+      "blobcatsleep": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 16178,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/KEptB5EI8B8E3CLeBxIgAvdRv8ckZQ7s"
+      },
+      "blobcatthinkowo": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 17985,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/XagkuL1HDNW37ycJ3PdyHsmqJLXbmRY9"
+      },
+      "blobcatverifiedfake": {
+        "info": {
+          "h": 64,
+          "mimetype": "image/png",
+          "size": 5036,
+          "w": 64
+        },
+        "url": "mxc://gaykitty.lol/u2W8sZQ2HD76iOcBbe8MslwYDtkctmqy"
+      },
+      "blobfox0_0": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3720,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/gvB3hbAzAROYqtqI0VlcbGdrbAyaLmya"
+      },
+      "blobfoxBoopGoogly": {
+        "info": {
+          "h": 760,
+          "mimetype": "image/png",
+          "size": 64630,
+          "w": 800
+        },
+        "url": "mxc://gaykitty.lol/iG8TEseKYiqUWrCmeHrwBuQXuTV1jpbl"
+      },
+      "blobfox_pirate": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3891,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/iwlMpq7SiSNHxeWUaWZh92F1MNeHWCUc"
+      },
+      "blobfoxbongo": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 4191,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/O0WN1PNpsAnuopwh3GkAZYYLUDiSnzPh"
+      },
+      "blobfoxbreadpeek": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 2960,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/AwN1jKdLkjKxcRNMiERPsLJWoDSiVQJs"
+      },
+      "blobfoxbreadsnoot": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 4882,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/V4G5TKmgGoK301dwYmlER8m9yTAUTzBV"
+      },
+      "blobfoxcactus": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 4048,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/cZoklhpx9ei0WWwmlMNB5VzXuf0O6qNN"
+      },
+      "blobfoxconfused": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 4043,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/PrdaCbKb9DHI2JdZWQKaYZ0xbdfIO6ha"
+      },
+      "blobfoxeyes": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3664,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/i1DkFx48U89rvAd6SKoS9LtPBNyDfJfw"
+      },
+      "blobfoxlurkowo": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3129,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/RQnqdu2VFQ8WFIHUvIVq4gnsXRQAIVIa"
+      },
+      "blobfoxmegumin": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 4451,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/dLLkvG1xgBuqWm6ECZJAWj3hybL43EqA"
+      },
+      "blobfoxmsnugglerightcat": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3099,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/oNdMKv2OAHvJbuawD76NXn7J5ZnUG7lu"
+      },
+      "blobfoxnomcorndog": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 4840,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/jyRJXnGt9Rmfeui6WG3slf7S6lUV5COC"
+      },
+      "blobfoxnompizza": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 4168,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/7Atr7STmVDkemI5skU8BHPsnVUg2tGHq"
+      },
+      "blobfoxpatmelt": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3740,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/z892KmidRp88czJfGzjOyoZLdzIFnv7k"
+      },
+      "blobfoxtea": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 4063,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/Vsup1VjyoRsiqQl8GkvBz77Bfgz97Swi"
+      },
+      "blobfoxthink": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3856,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/IlpmAV4z9ZPZ0cCSxpOQGT4iR4ZuHUP5"
+      },
+      "blobhaj_flag_progress_intersex_left": {
+        "info": {
+          "h": 1000,
+          "mimetype": "image/png",
+          "size": 68842,
+          "w": 1000
+        },
+        "url": "mxc://gaykitty.lol/P1830rcxMcbe2Q4x2GYM62SpyKiOGVal"
+      },
+      "blobhaj_flag_transmasc": {
+        "info": {
+          "h": 1000,
+          "mimetype": "image/png",
+          "size": 48160,
+          "w": 1000
+        },
+        "url": "mxc://gaykitty.lol/Iryz2uLn2ZcGlZKB3YYdDm1Yubr4vxnF"
+      },
+      "blobhaj_ghostie": {
+        "info": {
+          "h": 800,
+          "mimetype": "image/png",
+          "size": 29413,
+          "w": 800
+        },
+        "url": "mxc://gaykitty.lol/UbqIAnvC3pH1ddGqcHqeHPsNRvT9td1T"
+      },
+      "blobhajflagprogress": {
+        "info": {
+          "h": 512,
+          "mimetype": "image/png",
+          "size": 34476,
+          "w": 512
+        },
+        "url": "mxc://gaykitty.lol/mEf5nifHC7asyS99COxdf2tJT6jbGn8r"
+      },
+      "blobhajheart": {
+        "info": {
+          "h": 150,
+          "mimetype": "image/png",
+          "size": 5969,
+          "w": 150
+        },
+        "url": "mxc://gaykitty.lol/EJ4STi4u3DZ0RIderT4pEs9iXHRImbJY"
+      },
+      "blobnomcookie": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 16356,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/I2t0YlOrj8Ccks57K3m5zbXPbMnF12Uk"
+      },
+      "bocchi_glitch-14": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 20112,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/1wip3AAsLdwffrD5W28GJvtfYktJyB6N"
+      },
+      "bocchi_glitch-15": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 23458,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/irVV93qB1iMdmCg4jfKuYkZTehUi0pqS"
+      },
+      "bocchi_glitch-22": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 34353,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/ed2xLVcgGBjfqLdjHbqGiEagRnlYNxLQ"
+      },
+      "bocchi_glitch-23": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 21587,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/npEzzK7xX6OMBJnGs17JHLciSL5g4CUI"
+      },
+      "boston_bus": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4878,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/A1qkfdNWvrRwn1hr33nshdA116Puw1SS"
+      },
+      "boston_red": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4407,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/sHZXurIGz3JpeZSFpL45wvzEMOb01VPB"
+      },
+      "boston_red_mattapan": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4480,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/a0gLHQvlK5ejz5iHijPvWdD7Pu6f0Vah"
+      },
+      "br612_dbregio_a_8": {
+        "info": {
+          "h": 172,
+          "mimetype": "image/png",
+          "size": 4495,
+          "w": 172
+        },
+        "url": "mxc://gaykitty.lol/utxkBNsipe2UK1jpFQuP7gFzzfS6Uv9m"
+      },
+      "br650_vogtlandbahn_1": {
+        "info": {
+          "h": 204,
+          "mimetype": "image/png",
+          "size": 24961,
+          "w": 204
+        },
+        "url": "mxc://gaykitty.lol/rWqZCstKwK5o8HG6Yy4M5XtB3c0Ail1s"
+      },
+      "br650_vogtlandbahn_a_4": {
+        "info": {
+          "h": 204,
+          "mimetype": "image/png",
+          "size": 23148,
+          "w": 204
+        },
+        "url": "mxc://gaykitty.lol/6mRAspvwwoz6p48mWwVVyPbCci2tfE3M"
+      },
+      "bread_peek": {
+        "info": {
+          "h": 120,
+          "mimetype": "image/png",
+          "size": 5656,
+          "w": 120
+        },
+        "url": "mxc://gaykitty.lol/8IX01nMIn3XBLhYHb57TF77wVPv1ihIa"
+      },
+      "bruxelles_82": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 5127,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/n8dyfvftqsmPaClghWU25eo9j1Hys5Y3"
+      },
+      "bun_uprev": {
+        "info": {
+          "h": 20,
+          "mimetype": "image/png",
+          "size": 854,
+          "w": 20
+        },
+        "url": "mxc://gaykitty.lol/5S1NDVW2KI3vp2PIRZnPwx405bCWbwEx"
+      },
+      "buncouple": {
+        "info": {
+          "h": 40,
+          "mimetype": "image/png",
+          "size": 2125,
+          "w": 40
+        },
+        "url": "mxc://gaykitty.lol/II6j4D104EVQ3WSPrT2dYJ5PeGo2AAiR"
+      },
+      "buncry_rev": {
+        "info": {
+          "h": 20,
+          "mimetype": "image/png",
+          "size": 638,
+          "w": 20
+        },
+        "url": "mxc://gaykitty.lol/fJOGXd9jqpsanX49aarZ1auYf3Epps1F"
+      },
+      "bundesbahn_rot": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4653,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/538COAPPIGLpgZhfVrRXb0uXuee0lpkv"
+      },
+      "bunghast": {
+        "info": {
+          "h": 20,
+          "mimetype": "image/png",
+          "size": 10611,
+          "w": 20
+        },
+        "url": "mxc://gaykitty.lol/ZNzY400ipX8tEhGa5g1WCsxHnevzsOHE"
+      },
+      "bunhdhappy": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 9161,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/7W5kqYdZqAf1ioMHekLGOrFuWYNnC2nY"
+      },
+      "bunhdmlem": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 9427,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/wLG5x5rM6IW5udtY9DzwzIoKff9EH9WJ"
+      },
+      "bunooo": {
+        "info": {
+          "h": 20,
+          "mimetype": "image/png",
+          "size": 7518,
+          "w": 20
+        },
+        "url": "mxc://gaykitty.lol/CPhq33DpoQbZy1d5G0azgRpAp2doZsta"
+      },
+      "bunsmile2": {
+        "info": {
+          "h": 20,
+          "mimetype": "image/png",
+          "size": 409,
+          "w": 20
+        },
+        "url": "mxc://gaykitty.lol/kp3w4UOmXxuTmmNWWiwNzOzLawVz2ZK1"
+      },
+      "bunsmile3": {
+        "info": {
+          "h": 20,
+          "mimetype": "image/png",
+          "size": 398,
+          "w": 20
+        },
+        "url": "mxc://gaykitty.lol/9U3npnW7Kd035ITd5KqeHwXl6WzqjnqG"
+      },
+      "bunthinking2": {
+        "info": {
+          "h": 64,
+          "mimetype": "image/png",
+          "size": 638,
+          "w": 64
+        },
+        "url": "mxc://gaykitty.lol/UBo6XDxzfAS7WXJqaiWrYX3mS9IWbRxj"
+      },
+      "butterfly_trans": {
+        "info": {
+          "h": 208,
+          "mimetype": "image/png",
+          "size": 42812,
+          "w": 222
+        },
+        "url": "mxc://gaykitty.lol/r4F4EQGoYI6QIqamVFa7zlGEg2BorARk"
+      },
+      "calc_shocked": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 5391,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/Iafw3hueldoas3KtBtc0xKiu0tlFKD3T"
+      },
+      "calc_smile_hearts": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 6253,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/zqUMZ0F6pbFY4iPW01Tv6VfqoWNm8PCN"
+      },
+      "calcinfo": {
+        "info": {
+          "h": 2000,
+          "mimetype": "image/png",
+          "size": 981013,
+          "w": 2000
+        },
+        "url": "mxc://gaykitty.lol/MwEq7NOG0iToqwsb3Lz711hykILyAquO"
+      },
+      "caracas_metro": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 6708,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/iN3XLjj1eZRYEnJFWwdV5nMHBVYJTnhh"
+      },
+      "cat_heart_eyes_trans": {
+        "info": {
+          "h": 225,
+          "mimetype": "image/png",
+          "size": 4379,
+          "w": 225
+        },
+        "url": "mxc://gaykitty.lol/qONlmWhK3BzaKzAmRcTXvULKgWRUAbBa"
+      },
+      "catgirl_20": {
+        "info": {
+          "h": 320,
+          "mimetype": "image/png",
+          "size": 144807,
+          "w": 320
+        },
+        "url": "mxc://gaykitty.lol/K1txhcRkYkXQOp5N22qgVqWi3njdkSGN"
+      },
+      "catto": {
+        "info": {
+          "h": 78,
+          "mimetype": "image/png",
+          "size": 19393,
+          "w": 78
+        },
+        "url": "mxc://gaykitty.lol/8w9c0ZPrKTzlyjx5VND7uJqWDjh02YMe"
+      },
+      "cc_by": {
+        "info": {
+          "h": 384,
+          "mimetype": "image/png",
+          "size": 3998,
+          "w": 384
+        },
+        "url": "mxc://gaykitty.lol/jm7kPVTML0xZKtJwq8dub0E9uLWLXPHf"
+      },
+      "celfalline": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 24001,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/U00r3h6hY12Zw3BAl9eWUzyqkxnRo3lk"
+      },
+      "celunimpressedeline": {
+        "info": {
+          "h": 107,
+          "mimetype": "image/png",
+          "size": 15118,
+          "w": 109
+        },
+        "url": "mxc://gaykitty.lol/5MjPKXwX1c3BXKggYI6DT5oQQYxKlcIa"
+      },
+      "cg_blitz": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 6832,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/mB51Ph0uUdoahu2WQM31soYWhEZWpM62"
+      },
+      "comfyblush": {
+        "info": {
+          "h": 222,
+          "mimetype": "image/png",
+          "size": 20337,
+          "w": 250
+        },
+        "url": "mxc://gaykitty.lol/AMne6VkwPfhl02zntUzOSXwOuxk1sEEC"
+      },
+      "commie": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 5307,
+          "w": 123
+        },
+        "url": "mxc://gaykitty.lol/5m70r8ZlVW5at3HYkrELnWWOIdxrIuDM"
+      },
+      "commie_peek": {
+        "info": {
+          "h": 239,
+          "mimetype": "image/png",
+          "size": 4321,
+          "w": 222
+        },
+        "url": "mxc://gaykitty.lol/s416iNFTyzlISMT0xLug1inRiwIwLcHx"
+      },
+      "corteximplant_b": {
+        "info": {
+          "h": 526,
+          "mimetype": "image/png",
+          "size": 37912,
+          "w": 938
+        },
+        "url": "mxc://gaykitty.lol/bfv37inBtsl5HYgeHmB3mvX2dxXflYsX"
+      },
+      "cptm": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4505,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/l0T1RYyg0QpxbdgZU3eCbBiT4nI5oTuZ"
+      },
+      "cryingfeels": {
+        "info": {
+          "h": 35,
+          "mimetype": "image/png",
+          "size": 736,
+          "w": 35
+        },
+        "url": "mxc://gaykitty.lol/892qhCBaFdlQ55PmfKLYlEFFR0nakJ9T"
+      },
+      "deadbird": {
+        "info": {
+          "h": 72,
+          "mimetype": "image/png",
+          "size": 3957,
+          "w": 72
+        },
+        "url": "mxc://gaykitty.lol/4fmr2J8DTM83rx1ThET05L5Mi6mMTRiQ"
+      },
+      "deutschlandtarif": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 7002,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/EOi0Qfz6GRtzAqjDtXrZCFv4OKLU1nvZ"
+      },
+      "dns": {
+        "info": {
+          "h": 480,
+          "mimetype": "image/png",
+          "size": 48176,
+          "w": 480
+        },
+        "url": "mxc://gaykitty.lol/BsRW8UagnSCt7afGzUDR1qHnS3b8m2d5"
+      },
+      "doener4_ferhat": {
+        "info": {
+          "h": 545,
+          "mimetype": "image/png",
+          "size": 256591,
+          "w": 545
+        },
+        "url": "mxc://gaykitty.lol/P1AC3237JlbetkiIKjv0u3ycq2FtcfRC"
+      },
+      "dr": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3707,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/hRRJQkLMkwVHuwIEbAJPH6nPtzBF22I3"
+      },
+      "dragn_blanketsleep": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 13847,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/wpW5SCg4QUPZ9QXGgbSQDeQqLXWTqmZp"
+      },
+      "durstloescher": {
+        "info": {
+          "h": 321,
+          "mimetype": "image/png",
+          "size": 224671,
+          "w": 354
+        },
+        "url": "mxc://gaykitty.lol/N8v1q1MfiL8EB2Sij2KaRrKSz4irVmTe"
+      },
+      "eichkatzo": {
+        "info": {
+          "h": 137,
+          "mimetype": "image/png",
+          "size": 32747,
+          "w": 138
+        },
+        "url": "mxc://gaykitty.lol/UQWYod1NRq0NO27f2xIqF8O7O86D7Opi"
+      },
+      "el2": {
+        "info": {
+          "h": 171,
+          "mimetype": "image/png",
+          "size": 1872,
+          "w": 172
+        },
+        "url": "mxc://gaykitty.lol/bjRUy0Nwqp4uWuqNq5wkRW4P6fOo7lXt"
+      },
+      "el4": {
+        "info": {
+          "h": 171,
+          "mimetype": "image/png",
+          "size": 1793,
+          "w": 172
+        },
+        "url": "mxc://gaykitty.lol/KqmaIsFdSsGJGpjGVTWNA076OxfqX12V"
+      },
+      "enr": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 8292,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/WTI0dw7JVFcpru8vWC9hSFyUHrYaSM8J"
+      },
+      "es_ave_alt": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 5219,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/yniMFSopYXDB3ppo2qDoMxfAr4un40Rb"
+      },
+      "es_es": {
+        "info": {
+          "h": 300,
+          "mimetype": "image/png",
+          "size": 58741,
+          "w": 300
+        },
+        "url": "mxc://gaykitty.lol/Qn8r9mlMd6bVbImzuTTnmk6qWa1vrBkc"
+      },
+      "etihadrail": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 6494,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/fd98YTMFv2ki190peKSwXa0cgj0VQLfM"
+      },
+      "fart": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 2945,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/lHBnaapS9aQn34BEjImptzyhTdOV21R4"
+      },
+      "firefoxnew": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 13088,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/cmxtUmpLdTWD9J1ObijFBNoeUd2MR58b"
+      },
+      "firstgroup": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4777,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/PVQWA0xSIdKzYHSVL5d8SjC3W2IVM3gJ"
+      },
+      "flag_enbian": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 1422,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/M642Kf6ywaofs2kfQX68rYMoECz5DaMJ"
+      },
+      "flag_torres_strait_islands": {
+        "info": {
+          "h": 290,
+          "mimetype": "image/png",
+          "size": 25328,
+          "w": 530
+        },
+        "url": "mxc://gaykitty.lol/Z6YP7h6hTcAU5Z6nkoeousORHXnizc49"
+      },
+      "flanell": {
+        "info": {
+          "h": 232,
+          "mimetype": "image/png",
+          "size": 2134,
+          "w": 232
+        },
+        "url": "mxc://gaykitty.lol/aEzOMyXQP3VKO8D5Egk1ZpDat7358T67"
+      },
+      "flowerPleading": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 17119,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/lahVsWlF1FycOEp9ho2rUBS6RigXWTDh"
+      },
+      "frog_nonbinary": {
+        "info": {
+          "h": 96,
+          "mimetype": "image/png",
+          "size": 7233,
+          "w": 96
+        },
+        "url": "mxc://gaykitty.lol/KuFT1dSHkr151EPcHJDf3s4lOi6rxPUz"
+      },
+      "gadgetbridge": {
+        "info": {
+          "h": 512,
+          "mimetype": "image/png",
+          "size": 27948,
+          "w": 512
+        },
+        "url": "mxc://gaykitty.lol/c7GKR1x8pCjqdAp0HBMOGqP6417nC5wy"
+      },
+      "gayashell": {
+        "info": {
+          "h": 64,
+          "mimetype": "image/png",
+          "size": 1249,
+          "w": 64
+        },
+        "url": "mxc://gaykitty.lol/KmUdkfPubMLhtcgcIGm3fZlwctvwGT4t"
+      },
+      "genderqueerFlag": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 702,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/hMNUevcNHtm6hSU2hhMJwQgz6cS3vZ8c"
+      },
+      "george_eye_roll": {
+        "info": {
+          "h": 256,
+          "mimetype": "image/png",
+          "size": 63632,
+          "w": 256
+        },
+        "url": "mxc://gaykitty.lol/Wl1HL9gbb6UfqpgwxNjVigQEGRsFk7Gp"
+      },
+      "gimp": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 11309,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/fEaYlQX0Due5juNogDgZ2zAUJJ480GKJ"
+      },
+      "gnu_jihad-9": {
+        "info": {
+          "h": 398,
+          "mimetype": "image/png",
+          "size": 91488,
+          "w": 490
+        },
+        "url": "mxc://gaykitty.lol/o521tQyll6IOSdkt1iJAaCw5hG5obcfm"
+      },
+      "goodEnby": {
+        "info": {
+          "h": 84,
+          "mimetype": "image/png",
+          "size": 6089,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/N9OkbyGa7gRMp6xNRse1IqnckevJFMNl"
+      },
+      "good_boy": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 7828,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/X4Z3PRWjUM2i3QK4Dd1bt7RVDfgVKGT7"
+      },
+      "goodpet": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 8035,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/PG5qEEf0OC9nJ70RfiNjiqksIlMO5K1A"
+      },
+      "gothgirl_17": {
+        "info": {
+          "h": 320,
+          "mimetype": "image/png",
+          "size": 138797,
+          "w": 320
+        },
+        "url": "mxc://gaykitty.lol/zYBJY6QomBrc8KaehNDpgDczlofTqI92"
+      },
+      "guiyang_metro": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 7539,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/epOiP93Z5Oeqj5pu9GNoegEe9CZ4Owvy"
+      },
+      "gwtrains": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3476,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/LBztZHYWpdgBbuDPwME88fqP7kG1gBuT"
+      },
+      "gx": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4152,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/HH2drD0fU5hO7i1Dg74X8jpVIL0Ucr0U"
+      },
+      "hacker_p": {
+        "info": {
+          "h": 77,
+          "mimetype": "image/png",
+          "size": 5982,
+          "w": 77
+        },
+        "url": "mxc://gaykitty.lol/J4uc6bWA3nuWGolSIaliRUvlvR5DPhRH"
+      },
+      "hadag": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3784,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/1LuIsmMzzq3gcErSjFfGWUyXLz2egS1Y"
+      },
+      "hamburg_u2": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 2796,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/bspjoesmzI5GYCyADxIRfRgRCvlO0tMH"
+      },
+      "handholding": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 8666,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/2jhNXe1Na7y8OMAliOQh47FNTP4HUEJU"
+      },
+      "heart_db_produkt_nv": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3713,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/GI7VHFNo2EjxRsh10bOicssSYQbEAUrr"
+      },
+      "heart_demiboy": {
+        "info": {
+          "h": 115,
+          "mimetype": "image/png",
+          "size": 4135,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/i27N8DHDPnectJxjI46tktcTvwOISfUx"
+      },
+      "heart_eyes_cat_trans": {
+        "info": {
+          "h": 234,
+          "mimetype": "image/png",
+          "size": 12773,
+          "w": 234
+        },
+        "url": "mxc://gaykitty.lol/haVsVTm65eg2vLySXaqE5mxMr4mpKLJY"
+      },
+      "hehehmuhar": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 24674,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/D6ZN6hQkrrzvYRavFLgH7yu0Mkstg24T"
+      },
+      "hex_gay": {
+        "info": {
+          "h": 1024,
+          "mimetype": "image/png",
+          "size": 19471,
+          "w": 1024
+        },
+        "url": "mxc://gaykitty.lol/PHxwM4mQJCqwTjWelFvp5N9S2kHLUhTb"
+      },
+      "hex_polysexual": {
+        "info": {
+          "h": 1024,
+          "mimetype": "image/png",
+          "size": 19112,
+          "w": 1024
+        },
+        "url": "mxc://gaykitty.lol/qeMY3yFdLcN4kAx59OUd4z4c3tD1Ht1J"
+      },
+      "hkx": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4502,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/63pnJ6KYrgEAXlt8omQSZxxJ6u2rG9qv"
+      },
+      "hollow": {
+        "info": {
+          "h": 199,
+          "mimetype": "image/png",
+          "size": 42539,
+          "w": 199
+        },
+        "url": "mxc://gaykitty.lol/ndZ7bJHZ6Dl3C1XFFT4VpmVtmI6o1U5v"
+      },
+      "hyderabad_metro": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 12036,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/Eutee6a1Rfj78iaanND1FsdY7dSj7QWQ"
+      },
+      "infinity_heart": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 12166,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/haKeHtwfEHSDHXKyNp9Q5Vigx2MwBA0G"
+      },
+      "iryo": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3947,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/miXdZFGR61zEEE5dgWNQWcfyW1N3svlD"
+      },
+      "karlsruhe_s52": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4770,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/xRJFzP8aO2MfWiWt2SkaoHjvZJmcUDHn"
+      },
+      "kb_a": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4250,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/Zff9S6KCP3tfJaOnHaU0uozTqdoWaVBM"
+      },
+      "kb_bett": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 2509,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/TTSZlss64Sb3NZBcVLm39LlBYztTSn9L"
+      },
+      "kb_en": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3189,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/971C1Ous97a9HADO0hPofJa6fds32hey"
+      },
+      "kb_oebb": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3079,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/e3KPSw53zabzQnTAIgIwKNbtZWSXMyBc"
+      },
+      "kb_reservation": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3895,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/zQXozRfnpn94RfC6c3MlfzW51avPKXBC"
+      },
+      "kb_tee": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3688,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/c1f9S6MKxTDnRKxY83idL4fwCdo84Pxp"
+      },
+      "keo": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4119,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/tUpo2QTx5kjLKwxjHWmVjYtXfSoSKm49"
+      },
+      "kitakyushu_monorail": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 9208,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/nWuh5inFomEoQ8NnbOtLZQAK4OY4UtFp"
+      },
+      "kml": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4205,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/lE9a5a14XxlouCNQITbBAWVdwUPGXp91"
+      },
+      "koelnbonn_66": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3680,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/ZRsTqcJ5OpHHkZ6bi52tWAMMWZpEdEwx"
+      },
+      "lbluedragonmelt": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 2090,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/Vi8yBNLCVgWVjo52Vrkaa8nKnMtLk1Yb"
+      },
+      "lego_brick_pink": {
+        "info": {
+          "h": 25,
+          "mimetype": "image/png",
+          "size": 1858,
+          "w": 24
+        },
+        "url": "mxc://gaykitty.lol/GRWTZ5XpvxwEuzKUPK4CCsmNNw8dhL7o"
+      },
+      "lesbian_potion": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 16310,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/6I1EYRYgNOoQGLaDeljwy1Tuc284XZ8B"
+      },
+      "libero": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 5117,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/xoGaaeXMDLSoxQjpNVR8VAkwKI3UGnBc"
+      },
+      "lily_trans": {
+        "info": {
+          "h": 512,
+          "mimetype": "image/png",
+          "size": 27022,
+          "w": 512
+        },
+        "url": "mxc://gaykitty.lol/cy4hWrqEr5ZIbQb7tuiO1eVaHc0r4Y6u"
+      },
+      "littlerock_streetcar": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 5937,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/Ef4LIBK02zgAO8WTM9KXOkLB6soM4R9m"
+      },
+      "lucy_chibi_1": {
+        "info": {
+          "h": 200,
+          "mimetype": "image/png",
+          "size": 28984,
+          "w": 200
+        },
+        "url": "mxc://gaykitty.lol/eUJerzdTu3gymPfmZhxNeLUH5nNK7nbL"
+      },
+      "mac": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 10853,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/r7nfAPGTXTWyGWJVMLbaiZBWEjV8kD8v"
+      },
+      "madrid_2": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3348,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/leU2TzT4L2KinBQRDASJkDuHOJCNavwG"
+      },
+      "maharashtra_metro": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 7743,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/NZvV2rPsBBgc7UL52qV1yPjItzRUFGqq"
+      },
+      "meow_peek": {
+        "info": {
+          "h": 120,
+          "mimetype": "image/png",
+          "size": 1457,
+          "w": 120
+        },
+        "url": "mxc://gaykitty.lol/FDihRAqwBHZltKU9YdAYJzlPbxIWPsNb"
+      },
+      "meowblue": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 2034,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/QRna22CmwOZ835f4KFAyOiL7ATyJHIzy"
+      },
+      "meowmeltcry": {
+        "info": {
+          "h": 112,
+          "mimetype": "image/png",
+          "size": 7716,
+          "w": 112
+        },
+        "url": "mxc://gaykitty.lol/hZemtD9ScONW1xavgT5nFiDrqQk98XkO"
+      },
+      "meowmeltthumb": {
+        "info": {
+          "h": 112,
+          "mimetype": "image/png",
+          "size": 9092,
+          "w": 112
+        },
+        "url": "mxc://gaykitty.lol/WtvBk9pc4RD3JjjfUXdqndRs6S9OBL5q"
+      },
+      "meowtea": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 11999,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/Hk5wkQM8W9XGUukGgDBfLxj7znLSbHGF"
+      },
+      "meowtilt": {
+        "info": {
+          "h": 147,
+          "mimetype": "image/png",
+          "size": 6731,
+          "w": 147
+        },
+        "url": "mxc://gaykitty.lol/75TsJMjzZK5nFm62I0ud2I2ZWqpsyqYX"
+      },
+      "metro_pty": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4838,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/rNbd7FXEmzf37nEKqr3p6oJkXNCYBB3Y"
+      },
+      "minetest": {
+        "info": {
+          "h": 48,
+          "mimetype": "image/png",
+          "size": 3248,
+          "w": 48
+        },
+        "url": "mxc://gaykitty.lol/UwDdZKW2u0KdfM0GGXR5g5GQweRWTbsh"
+      },
+      "molotov": {
+        "info": {
+          "h": 563,
+          "mimetype": "image/png",
+          "size": 47654,
+          "w": 563
+        },
+        "url": "mxc://gaykitty.lol/idLPoTFfMRdiiRY7NzKHIlwBv49iKd8D"
+      },
+      "ms_airplane_arrival": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 2582,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/X0u14AlBAcbA0oqjgRL5VYauTX0EvVoi"
+      },
+      "ms_battery_medium": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 1310,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/r5XLBYxzhrjf7G9D9YZ7JtYGjBTt2KWD"
+      },
+      "ms_crazy": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3592,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/9nwzYqGmNBjx5SFf1pj3ArmwwnGxENbf"
+      },
+      "ms_credit_card": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 855,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/m6zi8Jg9BgYQuQLLAmH8GjQVtclaFYP0"
+      },
+      "ms_dolphin": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 2514,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/jHWdrTALHdQU7nGDudcbQ2QEjWLiGLQm"
+      },
+      "ms_eagle": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3060,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/1IdTEpwgzBvnQCNPTv1BjR6h6KFS6V01"
+      },
+      "ms_earth_pacific": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3038,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/mnIJ0uYMwbUbQHnFMu6et3boKGnRNbKE"
+      },
+      "ms_high_speed_train": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 1926,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/VngJp5ARFzYGc21hCD6GVcLAftL3SaMS"
+      },
+      "ms_jack_o_lantern": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3321,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/HrEjauOviyZfkvQnyQuqCdM4v2SYIz2E"
+      },
+      "ms_katana": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 1268,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/95a65G8clCeB0TYQekXyZAzp3NJNzPss"
+      },
+      "ms_merperson": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 2343,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/nTPqxBZm6nInh43hGcruzcMix0Wm84Tr"
+      },
+      "ms_new_moon": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3672,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/jOPjnpVWcMBjXiAMhIr7Hl04lz7aR1AM"
+      },
+      "ms_orange": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3082,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/ouImyXh9PpbBOeZSY8xSbPtgFfNo14PR"
+      },
+      "ms_palm_tree": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3445,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/ii5cGpSrSNeUffz2KO3iqZhyIooejYlX"
+      },
+      "ms_persevering": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3159,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/sY1q2FvAJIyqJ1tmkonQoMgNBdRY6rT8"
+      },
+      "ms_robot_blushy_4": {
+        "info": {
+          "h": 256,
+          "mimetype": "image/png",
+          "size": 27511,
+          "w": 256
+        },
+        "url": "mxc://gaykitty.lol/FBanjX5CBShGIp3XFHnoQBrrxj3nRKlP"
+      },
+      "ms_robot_hearts": {
+        "info": {
+          "h": 256,
+          "mimetype": "image/png",
+          "size": 12440,
+          "w": 256
+        },
+        "url": "mxc://gaykitty.lol/BJLEEwz5zeFxNlOHi0H9CdFE3vEGYiYg"
+      },
+      "ms_senbei": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 2994,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/t1ijgV5OpsRLdpDgwLtLBbO1P2IvTTqc"
+      },
+      "ms_sun": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 2125,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/BjKuKaL2K03ODbAvkG6xQs3Uls1vzVxj"
+      },
+      "ms_thinking": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3166,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/dA1PpeIqwhMfeCFuaniZNbLHI2Bfzu6b"
+      },
+      "ms_toilet_paper": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 2591,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/e7CHldVfCzIaVpLeFBZcD0NASseGo22a"
+      },
+      "ms_vomiting": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3307,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/rzHGvGrNaV8J6GziHGPt5sx8xYvOB6XG"
+      },
+      "ms_water_drop": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 2214,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/QAGgKWhQFxxFFYw9ynHGx9icLMMgx1uL"
+      },
+      "muenchen_21": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 2669,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/ybggaeOGzoqePJlWqYeQsA7PjExflZhy"
+      },
+      "naldo": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 6575,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/a7fDOb78Lmb7rrfYQhT9ULp1JehK44g2"
+      },
+      "nb_crossbow": {
+        "info": {
+          "h": 750,
+          "mimetype": "image/png",
+          "size": 14090,
+          "w": 750
+        },
+        "url": "mxc://gaykitty.lol/JUDs6Zrl0Y6fVYZKhS3E4DYQyIcgZFa6"
+      },
+      "nbe": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 5797,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/b7Lsmu8bRbdhTunGlIn9SpaAW3dJXOIm"
+      },
+      "netscape_3": {
+        "info": {
+          "h": 224,
+          "mimetype": "image/png",
+          "size": 3133,
+          "w": 186
+        },
+        "url": "mxc://gaykitty.lol/nVPw05clgFomppWUqF9XkLazx8EQDSM5"
+      },
+      "neutrois": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 2469,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/Tsw0BztJTe1exYP3tbqMk8Gumk96WmDg"
+      },
+      "nocops": {
+        "info": {
+          "h": 600,
+          "mimetype": "image/png",
+          "size": 44283,
+          "w": 600
+        },
+        "url": "mxc://gaykitty.lol/X8UXNPohcLhIs09SE9UAXXBUUmBHzyr5"
+      },
+      "nsb": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4103,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/tKO4jHOEdrGXLJEp0uQ2zWO1XQlO9bfi"
+      },
+      "ntb_naumburg": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3382,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/7g41ZrjU3zSsbz70Zw6PCPAioPDB0lR6"
+      },
+      "nuernberg_r": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3675,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/EGPQEnFY5BY2txu2LOV0RzPkfIbO5EA6"
+      },
+      "nuernberg_s": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 5316,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/rcKAhB5ikYQ1nqiDYaOK9lW8eA2Ni6GV"
+      },
+      "nyc_bmt_canarsie_l": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4180,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/RwTnihU1G8ta5tQfXeMGI1h5NzSUCYLu"
+      },
+      "nysw": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 16052,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/dWBHJmfxKCDeqejLwtlz6T0wDJzAjA1b"
+      },
+      "ohno": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 4139,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/NKRR71cuCaDl3V3wx957sxGi55b3tISq"
+      },
+      "omya_apple": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 34101,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/mBltBzCV6HDcMyD6buntJ0QCXuDqzrIl"
+      },
+      "omya_dvd_studio": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 27722,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/pw9xWSoh3UWrmWUnnq5fp1JD8rGy0H0y"
+      },
+      "omya_linux": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 19074,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/HncF8BT1UIiyeHh9mc4Icgtlmf2RuD4h"
+      },
+      "omya_nx": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 20177,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/RBUZFWrW1aV5inzDZeA3R5M4fj6seOWL"
+      },
+      "omya_slack": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 19041,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/ZAKDvDMZGK8J2GNUUexnN3X4a9FScNy3"
+      },
+      "omya_ubahn": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 16139,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/Ya6liWGEoVE6GfyWlMlGk0DkdfT0Wkix"
+      },
+      "onr": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4928,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/Mg2sEIsZQxRKd36QgbvoW71K5TlAo76I"
+      },
+      "opensource": {
+        "info": {
+          "h": 100,
+          "mimetype": "image/png",
+          "size": 7393,
+          "w": 100
+        },
+        "url": "mxc://gaykitty.lol/ub92z9FbV4Hx4x0NBKN6pu3doNnA4Gu3"
+      },
+      "ose": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4399,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/VV3yF6BS7eTIdM6NBUNZ3rM3Z8v6F9LH"
+      },
+      "paris_metro": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 6663,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/08bDgQFJDvlxh0a83SgagcrXkMmcy3bu"
+      },
+      "paris_t12": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3249,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/KQyMfEPJ80RazRn0HXppwnKm36Ti1XVA"
+      },
+      "paris_t7": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 2952,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/irNy8YzhMelvOSz2mrZ8AGk6EV3UlWRA"
+      },
+      "paris_transilien_p": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3228,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/0rrIdV3H5GFvC3WN5Gy2V6tCMhX4CCj7"
+      },
+      "passepartout": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4493,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/w6REmjxmqLVr0MjdOn0fjkPuZb45MWwU"
+      },
+      "phpstorm": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 5525,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/PB4DScOrmcpm4qptzLym19qMep8XAJaS"
+      },
+      "pixiv_icon": {
+        "info": {
+          "h": 256,
+          "mimetype": "image/png",
+          "size": 1011,
+          "w": 256
+        },
+        "url": "mxc://gaykitty.lol/Y2W1jdIAeiDPTRFwLA6q8TIdtMiaMawm"
+      },
+      "pizza_pineapple": {
+        "info": {
+          "h": 500,
+          "mimetype": "image/png",
+          "size": 9666,
+          "w": 500
+        },
+        "url": "mxc://gaykitty.lol/omQe1laJ8cWd3ShKwgbBflbDxX0eu8Ax"
+      },
+      "pleadingcat": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 11712,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/htwinBYsL2ZCkjJUIjS6IiwtMNBzBSYz"
+      },
+      "politecat": {
+        "info": {
+          "h": 140,
+          "mimetype": "image/png",
+          "size": 39330,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/LjKljMnGxBt41C3G1wPFZV1EkbwpSjB6"
+      },
+      "possblobcool": {
+        "info": {
+          "h": 354,
+          "mimetype": "image/png",
+          "size": 14526,
+          "w": 453
+        },
+        "url": "mxc://gaykitty.lol/k8uO3IKpJBY5it4DjyM4s2hubbYoN1xm"
+      },
+      "potion_polyamory": {
+        "info": {
+          "h": 256,
+          "mimetype": "image/png",
+          "size": 40588,
+          "w": 256
+        },
+        "url": "mxc://gaykitty.lol/YM4n2Vq3sBbtM3dW98HG0oJuxAbJtwaa"
+      },
+      "potion_progress": {
+        "info": {
+          "h": 256,
+          "mimetype": "image/png",
+          "size": 40897,
+          "w": 256
+        },
+        "url": "mxc://gaykitty.lol/CzCcj60iqisNqArRmf9hx0bH8srzc7Q7"
+      },
+      "pr": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 15035,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/RUIvsNNpFjWWmTKhdAKvnzPhnSm5FgDO"
+      },
+      "praxis_100": {
+        "info": {
+          "h": 555,
+          "mimetype": "image/png",
+          "size": 48835,
+          "w": 666
+        },
+        "url": "mxc://gaykitty.lol/zW5ItgPUCosR3BzH3wON98cqyxZdRLrq"
+      },
+      "pycharm": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 4697,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/8CftJz9vXz89aH9upGW1EMI0Fw4P6PQ9"
+      },
+      "qc_heart_sapphic": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3424,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/J9j9mgiPLmzTEmxH0KuxGbS0Yr1cg6Lk"
+      },
+      "queer_heart": {
+        "info": {
+          "h": 160,
+          "mimetype": "image/png",
+          "size": 3409,
+          "w": 160
+        },
+        "url": "mxc://gaykitty.lol/wznDL7jtiFQrF2RWykonGKq9xaIfIKct"
+      },
+      "rainbow_pride_potion": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 17293,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/mc095M4gzmQI8kX6XgIQuRoNJTwSWcpS"
+      },
+      "rainbow_tada": {
+        "info": {
+          "h": 200,
+          "mimetype": "image/png",
+          "size": 10937,
+          "w": 200
+        },
+        "url": "mxc://gaykitty.lol/rwrNvPPIcyLOjLrva6WPFElBVvwBIjcw"
+      },
+      "rbs": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4019,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/ZqV96JwZMyAweHyaLOfpoZVoud80adMx"
+      },
+      "renfe": {
+        "info": {
+          "h": 392,
+          "mimetype": "image/png",
+          "size": 39352,
+          "w": 1024
+        },
+        "url": "mxc://gaykitty.lol/X81BpqSLJ2ld8dHMzn5wLb4SoDb8S4Dc"
+      },
+      "revblobfoxthinkowo": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 9713,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/mpdrkw0smUjdIrbMFptTLHZ6T8aTmnTy"
+      },
+      "revblobfoxthisisfine": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 11385,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/4Sbkls5AQF2IAuaj4Hdf7ZZvRKzyk1sk"
+      },
+      "revblobfoxthonking": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 9623,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/9Y4OHeScfiaKSYbA77QmBFUyEYxlfKh0"
+      },
+      "revblobfoxupsidedown": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 7655,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/C4oRdCdWkWv2xxtzJgYQQGuj9DdHOqZc"
+      },
+      "revblobfoxuwu": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 8050,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/tt36ZKR9QtqbHeFAQpAL6NdeTJsKFucC"
+      },
+      "rickroll": {
+        "info": {
+          "h": 70,
+          "mimetype": "image/png",
+          "size": 2943,
+          "w": 70
+        },
+        "url": "mxc://gaykitty.lol/dFgJHuQShE1ez2YLwkmgYVNb1vVHtBOy"
+      },
+      "rider": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 4676,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/3H026LhoMaaXw2L4eixS8VPos2xo0xI4"
+      },
+      "riot": {
+        "info": {
+          "h": 250,
+          "mimetype": "image/png",
+          "size": 18834,
+          "w": 250
+        },
+        "url": "mxc://gaykitty.lol/v2lr4gTiMuKIwC93ioM9cL5OirUpY4o5"
+      },
+      "ritter_uran_235": {
+        "info": {
+          "h": 480,
+          "mimetype": "image/png",
+          "size": 254757,
+          "w": 480
+        },
+        "url": "mxc://gaykitty.lol/MdP0EVqli2sADFFJcSXFnp2kigaMOMPU"
+      },
+      "rnn": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4927,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/v284e9ArTQShKlp0G22mavAdo7wkgVoS"
+      },
+      "royce": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 25273,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/ESUYHQ7HS0V0tz6SmBcs6Wjo5BpJ8vPj"
+      },
+      "sacramento_rt": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 7282,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/ZBQ3jid87SixFK4rbD5WUDOx35Q6NoJL"
+      },
+      "safir": {
+        "info": {
+          "h": 60,
+          "mimetype": "image/png",
+          "size": 6364,
+          "w": 60
+        },
+        "url": "mxc://gaykitty.lol/YB47Ednntyp77PO5MSZCLAFeTg7owoC2"
+      },
+      "schweerbau": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3663,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/7zG7LYFNJxGWOPOGQve0MaTvWYrwb8oJ"
+      },
+      "senkohmm": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 32513,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/mzkrbdbw2GuLgdjVsrtqz21YKiqdJktp"
+      },
+      "shooshy": {
+        "info": {
+          "h": 250,
+          "mimetype": "image/png",
+          "size": 32270,
+          "w": 250
+        },
+        "url": "mxc://gaykitty.lol/hvDkDNiajw7ZwbKWxcxLWdmGmeQVr96o"
+      },
+      "simbolo_naobinario": {
+        "info": {
+          "h": 50,
+          "mimetype": "image/png",
+          "size": 2018,
+          "w": 35
+        },
+        "url": "mxc://gaykitty.lol/rhA9gore65KpJapbD7vgswHjU4UBOuF2"
+      },
+      "skm_warszawa": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 5736,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/KOnnW8QunUDmvKsiAAbALBNKqjRVN5Tt"
+      },
+      "slb": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3825,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/LQTZHaaIgfO3HydVHjdL8tt19FjDgqG9"
+      },
+      "sm64_b": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 538,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/NUfGSSM3rMaTtlDpZI3HD09tUTtQv5CQ"
+      },
+      "sm64_g": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 654,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/voTT5FbplA5dD0kaak3i6oNpJlOMQtZ3"
+      },
+      "sm64_y": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 555,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/hu6zKQAEHgiFRMOcB6ns26eksq99j29K"
+      },
+      "sntf": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 6659,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/aCAtTwDejmH6Zcx5Hhj24o8RKkhdz2m9"
+      },
+      "so_gay": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 7814,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/QEQU8ZsLA8zJvNfFCIaXbV46SECZrPjd"
+      },
+      "sparkles_nb": {
+        "info": {
+          "h": 320,
+          "mimetype": "image/png",
+          "size": 11267,
+          "w": 320
+        },
+        "url": "mxc://gaykitty.lol/4uhKgfuhWLmagPmUY2wJaGJDOnSq6ukP"
+      },
+      "squirreldevil": {
+        "info": {
+          "h": 112,
+          "mimetype": "image/png",
+          "size": 17556,
+          "w": 112
+        },
+        "url": "mxc://gaykitty.lol/iWcbxBmhhcUqT5IiPVAorffFzUz9uWXa"
+      },
+      "squirrelgg": {
+        "info": {
+          "h": 112,
+          "mimetype": "image/png",
+          "size": 17525,
+          "w": 112
+        },
+        "url": "mxc://gaykitty.lol/yPzorUH8KGVsnZY6QLQXxYzwk1FRnkks"
+      },
+      "sth": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 5782,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/W08UCzB2CAhNNQTUi5fKVZyt7fHek0yw"
+      },
+      "stockholm_48": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3841,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/Rbr9kK1nHBmQiOiNcKvCvI5jBZOAHKUm"
+      },
+      "td_mustermarke": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 5778,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/x3P3Gi4XPUQhNaZj8zv4dFFUCSmJvm6W"
+      },
+      "td_sbh": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 6061,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/U8QN4boGxu2cpd3VvTvKXhDAad3IyeQ8"
+      },
+      "thonk": {
+        "info": {
+          "h": 105,
+          "mimetype": "image/png",
+          "size": 11053,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/EyV1ak9pZVX1h0ck0kTtjBCQyKgZwjLk"
+      },
+      "toki_pona_flag": {
+        "info": {
+          "h": 69,
+          "mimetype": "image/png",
+          "size": 12013,
+          "w": 96
+        },
+        "url": "mxc://gaykitty.lol/HUansVJtfwZfVF7YIb1weclJQu8Ggx8L"
+      },
+      "toronto_5": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4525,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/Jp08VDamFoIh6QPGB9eIhfL0tRILc4nB"
+      },
+      "traffic_de_117_20": {
+        "info": {
+          "h": 240,
+          "mimetype": "image/png",
+          "size": 15127,
+          "w": 240
+        },
+        "url": "mxc://gaykitty.lol/4mLld1woqomXT0IKQYkqSZOSafEcGNKB"
+      },
+      "traffic_de_215": {
+        "info": {
+          "h": 240,
+          "mimetype": "image/png",
+          "size": 20135,
+          "w": 240
+        },
+        "url": "mxc://gaykitty.lol/CrtrUMp9jo7AIi8kxCYfAW13l1jvy0v4"
+      },
+      "traffic_de_240": {
+        "info": {
+          "h": 240,
+          "mimetype": "image/png",
+          "size": 20880,
+          "w": 240
+        },
+        "url": "mxc://gaykitty.lol/ksJG4JTN5tvXTqKt6vsEx9n0I6SIbDEy"
+      },
+      "traffic_de_282": {
+        "info": {
+          "h": 240,
+          "mimetype": "image/png",
+          "size": 12993,
+          "w": 240
+        },
+        "url": "mxc://gaykitty.lol/6O1T9jSTsi8Yh9hCv3SBwNv14QZNmLwT"
+      },
+      "transistor": {
+        "info": {
+          "h": 256,
+          "mimetype": "image/png",
+          "size": 10589,
+          "w": 256
+        },
+        "url": "mxc://gaykitty.lol/UYlK7lRq6D5CrOhRGmnEnpyPkZtAzPvL"
+      },
+      "trashfire": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 3567,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/IONmt9At9cas8ltGuNgaoO2DVgJqPb5y"
+      },
+      "trekbar": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 11663,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/iaxlMjj5aWONxU3EfkPVTZAR1mP1ahDb"
+      },
+      "trimet": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 7565,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/5URlEtWo7clkzzVdUiEswZE2JJN1Q3Zz"
+      },
+      "ucb": {
+        "info": {
+          "h": 255,
+          "mimetype": "image/png",
+          "size": 33131,
+          "w": 255
+        },
+        "url": "mxc://gaykitty.lol/GNV2mLgkqiLugNgOw1xHXXFZYyS0trip"
+      },
+      "v_aro": {
+        "info": {
+          "h": 500,
+          "mimetype": "image/png",
+          "size": 15738,
+          "w": 500
+        },
+        "url": "mxc://gaykitty.lol/ZtavOMvzVv8ygL4gUX46mSTqLqvbJKsa"
+      },
+      "v_bi": {
+        "info": {
+          "h": 438,
+          "mimetype": "image/png",
+          "size": 20986,
+          "w": 438
+        },
+        "url": "mxc://gaykitty.lol/o9208CsZvEakKYhMmEqQUUaVuqhM2AEH"
+      },
+      "valencia_ve_metro": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 10006,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/7vp9hOYVZWpSOLVs7sAIv1uxdSbP7OHN"
+      },
+      "vdv_estroticket": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4258,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/RoUuYwFBSRNz4HWSuG5JLUJNkndyVNBd"
+      },
+      "veri_mast": {
+        "info": {
+          "h": 512,
+          "mimetype": "image/png",
+          "size": 31201,
+          "w": 512
+        },
+        "url": "mxc://gaykitty.lol/fNSAZDHJ017Y7zk6HfHjRp6OQ5h1zdme"
+      },
+      "verifiedpikachu": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 4356,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/Ce6yEo1BQ4VYUxvU3hVBnOGHn23Oe1vf"
+      },
+      "verifiedpolyam_tricolor": {
+        "info": {
+          "h": 500,
+          "mimetype": "image/png",
+          "size": 14214,
+          "w": 500
+        },
+        "url": "mxc://gaykitty.lol/dKzYUWyvq4PwYaXjE9dxFAXq8U0lgAYr"
+      },
+      "verifiedtrans": {
+        "info": {
+          "h": 500,
+          "mimetype": "image/png",
+          "size": 14949,
+          "w": 500
+        },
+        "url": "mxc://gaykitty.lol/bnRWwIoWQzdROvF90BFUCUpmqRg9wN2Z"
+      },
+      "verifiedwhite": {
+        "info": {
+          "h": 512,
+          "mimetype": "image/png",
+          "size": 8214,
+          "w": 512
+        },
+        "url": "mxc://gaykitty.lol/n0bk6vZcWXX4HJpPZtKNTN2KuZBQ02k0"
+      },
+      "veritrek": {
+        "info": {
+          "h": 512,
+          "mimetype": "image/png",
+          "size": 7821,
+          "w": 512
+        },
+        "url": "mxc://gaykitty.lol/vOBdYeTmm2LHtZHwovGoK6aTkOgTxVRa"
+      },
+      "vivaldi_browser": {
+        "info": {
+          "h": 512,
+          "mimetype": "image/png",
+          "size": 23781,
+          "w": 512
+        },
+        "url": "mxc://gaykitty.lol/n6BdJMKaFtzeArcaIwWdUcZBSYGoXQfv"
+      },
+      "void_discard": {
+        "info": {
+          "h": 512,
+          "mimetype": "image/png",
+          "size": 196173,
+          "w": 512
+        },
+        "url": "mxc://gaykitty.lol/CqLgYIUSTvg0o6g4lYWeI9wCahW7NTTS"
+      },
+      "vvo": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3347,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/JLeLM98KiJWboealSdyj1bvBtEzDwyIQ"
+      },
+      "wagenstand_leer": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 2202,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/ukoG1moDVcYuTfE5HSr1wsN2DR2mRqMd"
+      },
+      "wce": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4423,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/l00Z7kUG1ujcFJMS0nuSrvdYDNZE3VWZ"
+      },
+      "windows1": {
+        "info": {
+          "h": 1757,
+          "mimetype": "image/png",
+          "size": 17922,
+          "w": 2560
+        },
+        "url": "mxc://gaykitty.lol/6RMUF3WURKbWJYzdmglBzdWAy6fFUo05"
+      },
+      "windows95": {
+        "info": {
+          "h": 2048,
+          "mimetype": "image/png",
+          "size": 174467,
+          "w": 2362
+        },
+        "url": "mxc://gaykitty.lol/ipayXrRrdUsJkXHg1m9E3zed1019fnMQ"
+      },
+      "woem": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 8361,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/jWSpuY8RTTMeL4QC63BWlDzecSPmgrAX"
+      },
+      "wolf_pixel": {
+        "info": {
+          "h": 40,
+          "mimetype": "image/png",
+          "size": 10540,
+          "w": 40
+        },
+        "url": "mxc://gaykitty.lol/bVUnvelNbeeE0rz9UFJAh5jDXfg28E02"
+      },
+      "xbox_logo": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 12348,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/mil1EDFHj6L3uEVTVuUSuVqplGe2kP2r"
+      },
+      "xc": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 3676,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/Hyd0uOxGtC4wPJR61AKMEmSUFyZkAPER"
+      },
+      "yeen_flower": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 6873,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/a2WMGb09tJxdCLuDqv1WplGhhFCd99Uf"
+      },
+      "yotsuba_rice": {
+        "info": {
+          "h": 239,
+          "mimetype": "image/png",
+          "size": 40086,
+          "w": 206
+        },
+        "url": "mxc://gaykitty.lol/V6yFgYoiIUWRIeHKqfnt3hYVbvnmT5RV"
+      },
+      "yotsuba_spin": {
+        "info": {
+          "h": 239,
+          "mimetype": "image/png",
+          "size": 38052,
+          "w": 263
+        },
+        "url": "mxc://gaykitty.lol/4ws7BjHJLNfrVOKZ17PqQAiUTtETwXnE"
+      },
+      "youtube": {
+        "info": {
+          "h": 128,
+          "mimetype": "image/png",
+          "size": 2517,
+          "w": 128
+        },
+        "url": "mxc://gaykitty.lol/YLxlp0fphLSxTTbvWTjXkAClJA7fD7RH"
+      },
+      "zsr": {
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 4972,
+          "w": 80
+        },
+        "url": "mxc://gaykitty.lol/zENbFbKvCmll8owSVwfaLTee5Sp8pfM0"
+      }
+    },
+    "pack": {
+      "display_name": "maatrix"
+    }
+  },
+  "origin_server_ts": 1704823956900,
+  "sender": "@emojibot:gaykitty.lol",
+  "state_key": "d7b0fc7f-2512-4f33-9335-434c35f5a422",
+  "type": "im.ponies.room_emotes",
+  "unsigned": {},
+  "event_id": "$listpjr9kudVBzvjTDxvjJE-foqG9xBQ0RPm3RStaRc",
+  "room_id": "!Dk5N1L07k7Z43O4SgV:gaykitty.lol"
+}

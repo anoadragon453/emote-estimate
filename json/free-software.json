@@ -1,0 +1,350 @@
+{
+  "content": {
+    "images": {
+      "android_uwu": {
+        "body": "Cute Android",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 17164,
+          "w": 248
+        },
+        "url": "mxc://tastytea.de/FjFKMmfCnWbQmaUexLTCFCZX",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "arch_uwu": {
+        "body": "Cute Arch",
+        "info": {
+          "h": 241,
+          "mimetype": "image/webp",
+          "size": 39482,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/plRNvoddbTLjjuBFHccrkpRS"
+      },
+      "arcolinux_uwu": {
+        "body": "Cute ArcoLinux",
+        "info": {
+          "h": 235,
+          "mimetype": "image/webp",
+          "size": 55820,
+          "w": 245
+        },
+        "url": "mxc://tastytea.de/svJoKtLHXCnCdXGIcTwiXvvD"
+      },
+      "artix_uwu": {
+        "body": "Cute Artix",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 27292,
+          "w": 252
+        },
+        "url": "mxc://tastytea.de/PWSlKbzYRnOOicwCWvHiDzYg"
+      },
+      "debian_lesbian": {
+        "body": "debian – the GNU/Linux distribution for lesbians",
+        "info": {
+          "h": 288,
+          "mimetype": "image/webp",
+          "size": 279218,
+          "w": 512
+        },
+        "url": "mxc://tastytea.de/kBqdyJAMSkYFfgYOwpgQjpDz"
+      },
+      "debian_uwu": {
+        "body": "Cute Debian",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 38958,
+          "w": 219
+        },
+        "url": "mxc://tastytea.de/fOxCGFkFpuJiHWoHRKJFUQds"
+      },
+      "endeavouros_uwu": {
+        "body": "Cute EndeavourOS",
+        "info": {
+          "h": 224,
+          "mimetype": "image/webp",
+          "size": 29076,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/rJSjPeGMPZVUlOauJptLMJba"
+      },
+      "fedora_uwu": {
+        "body": "Cute Fedora",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 29292,
+          "w": 212
+        },
+        "url": "mxc://tastytea.de/DMVmIWDIFaNqIVwsJtTZtGdE"
+      },
+      "gentoo_uwu": {
+        "body": "Cute Gentoo",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 91520,
+          "w": 227
+        },
+        "url": "mxc://tastytea.de/IWqsRFzKowcFqNAcxlZGQxWT"
+      },
+      "gnu_uwu": {
+        "body": "Horny GNU",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 15238,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/TnCsHctCmrWzjqqdIHKfOqeM",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "kde_neon_uwu": {
+        "body": "Cute KDE Neon",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 133542,
+          "w": 252
+        },
+        "url": "mxc://tastytea.de/yZqCSsUMUzDJVWbURVtRkJQI"
+      },
+      "linux_mint_uwu": {
+        "body": "Cute Linux Mint",
+        "info": {
+          "h": 229,
+          "mimetype": "image/webp",
+          "size": 35128,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/kQLGLejVgFFEkeUIuPJZIkjD"
+      },
+      "manjaro_uwu": {
+        "body": "Cute Manjaro",
+        "info": {
+          "h": 216,
+          "mimetype": "image/webp",
+          "size": 60154,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/MEMdUAZjgjuJKXrQsgALGLNG"
+      },
+      "nixos_uwu": {
+        "body": "Cute NixOS",
+        "info": {
+          "h": 222,
+          "mimetype": "image/webp",
+          "size": 40270,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/kVpOacGVNgpaLwSCcTwKIzCA"
+      },
+      "opensuse_uwu": {
+        "body": "Cute OpenSUSE",
+        "info": {
+          "h": 253,
+          "mimetype": "image/webp",
+          "size": 69850,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/zCduJzJQjFOUFOYCeAQFJSBx"
+      },
+      "pop_uwu": {
+        "body": "Cute Pop!_OS",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 33374,
+          "w": 234
+        },
+        "url": "mxc://tastytea.de/aJxbLRmqdluAuUJiZzNiFYtY"
+      },
+      "puffy_laptop": {
+        "body": "Puffy (OpenBSD mascot) hacking on a keyboard",
+        "info": {
+          "h": 231,
+          "mimetype": "image/webp",
+          "size": 315638,
+          "w": 249
+        },
+        "url": "mxc://tastytea.de/SvXnbpxuMAvbyzCApGcVTwIk"
+      },
+      "slackware_uwu": {
+        "body": "Cute Slackware",
+        "info": {
+          "h": 192,
+          "mimetype": "image/webp",
+          "size": 48284,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/CKciBnRUyMnrYGIhbrVHSuqs"
+      },
+      "solus_uwu": {
+        "body": "Cute Solus",
+        "info": {
+          "h": 227,
+          "mimetype": "image/webp",
+          "size": 48638,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/yPsBogyXbDzxGUMaATvQEqfM"
+      },
+      "tux": {
+        "body": "Tux, the Linux mascot",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 69334,
+          "w": 214
+        },
+        "url": "mxc://tastytea.de/HXsYUXyRfVACcvMqHBmMJhyY"
+      },
+      "tux_round": {
+        "body": "Round and cute Tux",
+        "info": {
+          "h": 64,
+          "mimetype": "image/webp",
+          "size": 3926,
+          "w": 64
+        },
+        "url": "mxc://tastytea.de/QxbDuuvOoeCCFyvuQSDjVYzO",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "tux_uwu": {
+        "body": "Cute Tux",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 47932,
+          "w": 218
+        },
+        "url": "mxc://tastytea.de/maFFXRuqAvpdJBOAQQqGllfM"
+      },
+      "ubuntu_uwu": {
+        "body": "Cute Ubuntu",
+        "info": {
+          "h": 119,
+          "mimetype": "image/webp",
+          "size": 24134,
+          "w": 123
+        },
+        "url": "mxc://tastytea.de/xuJlLeoFUaRgNvCeEZoudKXY"
+      },
+      "void_uwu": {
+        "body": "Cute Void",
+        "info": {
+          "h": 237,
+          "mimetype": "image/webp",
+          "size": 51554,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/ZQIsNyMtmFuUvHjKPilgMdSn"
+      },
+      "xenia_angry": {
+        "body": "Angry Xenia",
+        "info": {
+          "h": 256,
+          "mimetype": "image/png",
+          "size": 192715,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/mPrPlmxTkLqaTmOGhcaGQYiy",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "xenia_laptop": {
+        "body": "Xenia with laptop",
+        "info": {
+          "h": 250,
+          "mimetype": "image/png",
+          "size": 191811,
+          "w": 250
+        },
+        "url": "mxc://tastytea.de/YyzZsnBMOSGUmbjopHqfFBhD",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "xenia_linux": {
+        "body": "Xenia, the Linux mascot (a fox)",
+        "info": {
+          "h": 350,
+          "mimetype": "image/webp",
+          "size": 200270,
+          "w": 262
+        },
+        "url": "mxc://tastytea.de/xzYHXYPXcvRGSVfThxpuFRbh"
+      },
+      "xenia_original": {
+        "body": "Xenia, the Linux mascot (a fox)",
+        "info": {
+          "h": 141,
+          "mimetype": "image/png",
+          "size": 10788,
+          "w": 80
+        },
+        "url": "mxc://tastytea.de/syLgsPxZbslEAlnhNoPwSnxU"
+      },
+      "xenia_stare": {
+        "body": "Xenia stares at you",
+        "info": {
+          "h": 250,
+          "mimetype": "image/png",
+          "size": 175148,
+          "w": 250
+        },
+        "url": "mxc://tastytea.de/FvveGHwKrkniPRNXjGUfZpWc"
+      },
+      "xenia_think": {
+        "body": "Xenia thinks",
+        "info": {
+          "h": 250,
+          "mimetype": "image/png",
+          "size": 207117,
+          "w": 250
+        },
+        "url": "mxc://tastytea.de/gPSRHeDrVcaYnkRHmiYTPupK"
+      },
+      "xenia_tongue": {
+        "body": "Xenia sticking tongue out",
+        "info": {
+          "h": 250,
+          "mimetype": "image/png",
+          "size": 202803,
+          "w": 250
+        },
+        "url": "mxc://tastytea.de/oRSmiQUtqQsYIPTtRkcrcdil"
+      }
+    },
+    "pack": {
+      "attribution": "<https://github.com/TheDarkBug/uwufetch/blob/main/res/COPYRIGHT.md>, <https://meow.social/@rinidisc/109791952664927854> and others.",
+      "avatar_url": "mxc://tastytea.de/FtyrusXhikBelanliqiIVrbM",
+      "display_name": "Free Software"
+    }
+  },
+  "origin_server_ts": 1704825933826,
+  "sender": "@tastytea:tastytea.de",
+  "state_key": "Free Software",
+  "type": "im.ponies.room_emotes",
+  "unsigned": {
+    "replaces_state": "$NuX6mn3xJuTnSMHnc5F2zb64iAW17WCpAe23rlZRW3s"
+  },
+  "event_id": "$9X2r93AD9Df3CRCtNlT0G3Y6K3GcBxNVeU2qxcMjNlA",
+  "room_id": "!zeiOoThAHmEJeAlvvI:pixie.town"
+}

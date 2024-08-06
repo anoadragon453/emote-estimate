@@ -1,0 +1,434 @@
+{
+  "content": {
+    "images": {
+      "bh": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 26000,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/hTajBczvGRALhXJtuFrCzNQi",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "bh-asperigus": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 46287,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/PtdkrAdIfPVbiCLEpVNoZMwy",
+        "usage": null
+      },
+      "bh-bighug": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 41112,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/qvOyXkcBiLReCBvTYJweiEYk",
+        "usage": null
+      },
+      "bh-blankie": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 40282,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/AjpVBJgCtzVEPmhuWCnQeaAZ",
+        "usage": null
+      },
+      "bh-blankie-2": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 40734,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/hhbeXUDAmkzbSuzUvbJMwKEh",
+        "usage": null
+      },
+      "bh-flag-ace": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/vcqonpwpyTVefIScKrJAnAvN",
+        "usage": null
+      },
+      "bh-flag-ally": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/dBsYVRxivLHiRBKBCNHPgMRV",
+        "usage": null
+      },
+      "bh-flag-aromantic": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/fXolVvCWFttZmylPRzvjaYFh",
+        "usage": null
+      },
+      "bh-flag-autism": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/hADFMsjUGSCsbEVgTHotvyHO",
+        "usage": null
+      },
+      "bh-flag-bisexual": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/XEWJCcGtKIwjSwgMpUGKTVwe",
+        "usage": null
+      },
+      "bh-flag-blm": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/bHTQleiwoXGQGXWUdQmWicIi",
+        "usage": null
+      },
+      "bh-flag-demisexual": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/DvjgsAGNPKuthogGlAdMvfBd",
+        "usage": null
+      },
+      "bh-flag-gay": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/EsSlDlKLammyqwkKOiHzlbeU",
+        "usage": null
+      },
+      "bh-flag-genderfluid": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/WSMbeyFCIJjDgdQPpLYezWGi",
+        "usage": null
+      },
+      "bh-flag-genderqueer": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/qhWmacIMMhUvciLTwUoJEaHb",
+        "usage": null
+      },
+      "bh-flag-intersex": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/ntcJcCwrPoXcwBzykccRcfHb",
+        "usage": null
+      },
+      "bh-flag-lesbian": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/gavFNBpKhIOunhvEsPYoVtuw",
+        "usage": null
+      },
+      "bh-flag-nonbinary": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/qEKKnKskMRCtwfAXOZDmHMgM",
+        "usage": null
+      },
+      "bh-flag-pansexual": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/aMaPjJGAyepxaxMVrslPHWHN",
+        "usage": null
+      },
+      "bh-flag-polypi": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/UVnomaAmdmNcOBoioKredDsJ",
+        "usage": null
+      },
+      "bh-flag-polysexual": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/lmALqXFqPYeyZIDGMeamwnil",
+        "usage": null
+      },
+      "bh-flag-polytricolor": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/WfZbYrSXRIoxOMdLztdHHFSo",
+        "usage": null
+      },
+      "bh-flag-progress-intersex-left": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/dILfsOziuzNblFBFiuJEqjjq",
+        "usage": null
+      },
+      "bh-flag-progress-intersex-right": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/swnlcSlhTNIKSwGFZsaptnjY",
+        "usage": null
+      },
+      "bh-flag-trans-femme": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/ASVsHAgLSlFEVEOAmRqffwVD",
+        "usage": null
+      },
+      "bh-flag-trans-masc": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/VoWqtWzuqKLwWoUbzMhTqKKE",
+        "usage": null
+      },
+      "bh-flag-transgender": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/ctdyIQgvzAVSAAulYyjZOzwA",
+        "usage": null
+      },
+      "bh-ghostie": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/OSiJyoYhkCMEKliDyOYqNyme",
+        "usage": null
+      },
+      "bh-ghostie-alive": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/tCsYoSYcSdYEwgfPArmBchfx",
+        "usage": null
+      },
+      "bh-ghostie-boo": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/QgcHsPbnBbFjWSLGKMsyXfAK",
+        "usage": null
+      },
+      "bh-ghostie-surprise": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/rmEArojammFAIQDFZcSZpWTg",
+        "usage": null
+      },
+      "bh-golly": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/zXXxiVkUHywgVgFAGvoJcRGQ",
+        "usage": null
+      },
+      "bh-heart": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 48998,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/rkuEaYqhEMrTIJOaMmcnAViV",
+        "usage": null
+      },
+      "bh-heart-gay": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 52131,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/iHJpWIGKYqSvoVRYXLdheoqC",
+        "usage": null
+      },
+      "bh-heart-trans": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 56814,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/lVaELvNmPhPimFszgrsblgMd",
+        "usage": null
+      },
+      "bh-hug": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 57475,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/xnEWtmTypMHjXPfdTJRopWkX",
+        "usage": null
+      },
+      "bh-innocent": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/DukUMEIXuvctjPWHVqjeEYni",
+        "usage": null
+      },
+      "bh-love": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 36480,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/vJAqLFkGRXsyRQqFlxHtkaVV",
+        "usage": null
+      },
+      "bh-love-wins": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/FgKxfECurpTybJTsZaJqMLPc",
+        "usage": null
+      },
+      "bh-melty": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/OPqKkVolaAlExbGwloUFJruj",
+        "usage": null
+      },
+      "bh-melty-crush": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/fVcWIZtqlqHZXBIzisZpzqXf",
+        "usage": null
+      },
+      "bh-mlem": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 32979,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/uYzxLvakZTsEgsxEtetqscNP",
+        "usage": null
+      },
+      "bh-plead-1": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/MvrQMMBXBdkSSwXSqvxxxQeg",
+        "usage": null
+      },
+      "bh-plead-2": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/MTaDawFHYcikoKEtoUIlcemN",
+        "usage": null
+      },
+      "bh-pumphaj": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/bIOiaVZvStvIvgFQkduRLQyV",
+        "usage": null
+      },
+      "bh-pumpkin": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/MPnMSNDsolbBwUzlgWBzreak",
+        "usage": null
+      },
+      "bh-pumpkin-boo": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/PDXRgiOFilSiJjEVLZyQazUP",
+        "usage": null
+      },
+      "bh-pumpkin-face": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/ocwbGgSHXIikXRdheErYlXlM",
+        "usage": null
+      },
+      "bh-pumpkin-surprise": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/QDGejGRLigZCperebQYFJIWD",
+        "usage": null
+      },
+      "bh-reach": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 33105,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/GCHqaxezXOocLhkOmuevaZXl",
+        "usage": null
+      },
+      "bh-reach-sad": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 34758,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/CIkWpqouSNbwhljLciwCPorp",
+        "usage": null
+      },
+      "bh-read-md": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/EytTdeFvkujYJzUqRYnTKvXl",
+        "usage": null
+      },
+      "bh-read-octopus": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/cVYpQraRUeAQSgMegBwkAGYx",
+        "usage": null
+      },
+      "bh-rocket-hug": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/HaOVhXmSVemNwKMUmWJWUjXW",
+        "usage": null
+      },
+      "bh-sausage": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 38089,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/monUelBvrHOXksMxxChAszuG",
+        "usage": null
+      },
+      "bh-shock": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 26531,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/hPJJvzCcLNxRmLHpEmIMoeuV",
+        "usage": null
+      },
+      "bh-sir-happy": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/BhBiPBAOdBdgbRTrNwYSDtAN",
+        "usage": null
+      },
+      "bh-sir-unhappy": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/TfFrXGPYSwCIDeLehhenvURW",
+        "usage": null
+      },
+      "bh-sneaky": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/uvmzqaCCzPRKDivZEVyNbMEo",
+        "usage": null
+      },
+      "bh-sneaky-devil": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/kVTsBBTDdPNAFqXCTdMoGUvv",
+        "usage": null
+      },
+      "bh-squeeze": {
+        "info": {
+          "h": 400,
+          "mimetype": "image/png",
+          "size": 59734,
+          "w": 400
+        },
+        "url": "mxc://the-apothecary.club/zwuAHjgDgbYthEPKfoIPOetX",
+        "usage": null
+      },
+      "bh-thanks-love": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/AeEUDuVBKpBvdoLACoNxkOnT",
+        "usage": null
+      },
+      "bh-thanks-wow": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/ZApBYwssaqHwaDPUYXpzHByV",
+        "usage": null
+      },
+      "bh-thinking": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/EYnXLnHwzNMsuvawWUGdpVXS",
+        "usage": null
+      },
+      "bh-witch": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/RAINKbQKrNXNmZrpgKZTciSC",
+        "usage": null
+      },
+      "bh-witch-broom": {
+        "info": null,
+        "url": "mxc://the-apothecary.club/IXFPPucRqgXRQNhDRTBvfNyU",
+        "usage": null
+      }
+    },
+    "pack": {
+      "attribution": "plush.city/@heatherhorns",
+      "avatar_url": "mxc://the-apothecary.club/UtdjBBBBaGUuORlwABZPoCeD",
+      "display_name": "BlobHaj"
+    }
+  },
+  "origin_server_ts": 1686566491002,
+  "sender": "@sasha:the-apothecary.club",
+  "state_key": "",
+  "type": "im.ponies.room_emotes",
+  "unsigned": {
+    "age": 36395586092,
+    "replaces_state": "$o0cJlo8Od8MlPMASuFmJDnYUS_bFemEk9dJBqe29SBo"
+  },
+  "event_id": "$W2N1xKLvzUwrms-PEw-AfCTi8thMFwXm5KbfytLZjy4",
+  "room_id": "!fAGuCoqfTlDSmpRzye:the-apothecary.club"
+}

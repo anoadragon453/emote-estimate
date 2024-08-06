@@ -1,0 +1,1192 @@
+{
+  "content": {
+    "images": {
+      "aoi": {
+        "body": "Aoi",
+        "info": {
+          "h": 245,
+          "mimetype": "image/png",
+          "size": 183430,
+          "w": 245
+        },
+        "url": "mxc://tastytea.de/iKTyzUENuFvkJRNLTrRBwrcz"
+      },
+      "aoi_beanie": {
+        "body": "Aoi with beanie",
+        "info": {
+          "h": 250,
+          "mimetype": "image/png",
+          "size": 145148,
+          "w": 250
+        },
+        "url": "mxc://tastytea.de/GoJybfZGOZfkQTltNIXGHMAY"
+      },
+      "aoi_folding_hands": {
+        "body": "🙏 Aoi is folding hands",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 17494,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/JoFRrfHpjBecwJWHPoDyyIZO",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "aoi_pointing_up": {
+        "body": "👆 Aoi pointing upwards",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 28234,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/BqBeWBNAidrpFCGLSUFXMElw",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "aoi_thinking": {
+        "body": "🤔 Thinking Aoi",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 23436,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/olfBNIGtCgnllObYjorRarmM",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "aoi_thumbsup": {
+        "body": "👍 Aoi giving thumbs ub",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 25204,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/OsVHWrFabDnpeBUaOApbqmqw",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "aoi_whisper": {
+        "body": "Aoi wispers",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 27426,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/ifSLcrskRDnCBmOYZDZLzSrz",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "camping_bike": {
+        "body": "nadeshiko from yuru camp riding a trike with an erected tent with lamp dangling from the top, cooler, running grill and gas cooker. she is eating rice while cycling, behind her is a bundle of fire wood. there is a display (tablet?) in front of her.",
+        "info": {
+          "h": 180,
+          "mimetype": "image/webp",
+          "size": 191202,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/yhxxshwlCAfkLECEkRxgYkSJ",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "chiaki": {
+        "body": "Chiaki",
+        "info": {
+          "h": 270,
+          "mimetype": "image/png",
+          "size": 133571,
+          "w": 270
+        },
+        "url": "mxc://tastytea.de/aMpLQlqMbyiDobGjotXzJvka"
+      },
+      "chiaki_10_10_thumbsup": {
+        "body": "💯 Chiaki holds sign: “10 out of 10” and giving thumbs up",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 17720,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/abPcCLknkgPifNnalANbVZiY",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "chiaki_bandage": {
+        "body": "Chiaki with bandages",
+        "info": {
+          "h": 225,
+          "mimetype": "image/png",
+          "size": 135193,
+          "w": 225
+        },
+        "url": "mxc://tastytea.de/VqokiDIsVvVNPwtAsESHqYuY"
+      },
+      "chiaki_determined": {
+        "body": "Determined Chiaki",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 23070,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/HaNujYPGdReoOfCdEFPYGviK",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "chiaki_gun": {
+        "body": "Chiaki has a gun",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 27244,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/MHmaMmxcejcXBKAyUhPAgddg",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "chiaki_irritated": {
+        "body": "Irritated Chiaki",
+        "info": {
+          "h": 360,
+          "mimetype": "image/png",
+          "size": 332298,
+          "w": 286
+        },
+        "url": "mxc://tastytea.de/WHNTGphdfYKFvceWzTdnEHuc",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "chiaki_nadeshiko_party": {
+        "body": "🎉 Chiaki and Nadeshiko partying",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 35318,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/UdBBoTWeLMFoojXNmYhMzivf",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "chiaki_pointing": {
+        "body": "👈 Chiaki pointing at you",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 26280,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/eCBvuCbPRgvTaRxeWzxpKyxV",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "chiaki_puzzled": {
+        "body": "😕 Puzzled Chiaki",
+        "info": {
+          "h": 360,
+          "mimetype": "image/png",
+          "size": 367197,
+          "w": 339
+        },
+        "url": "mxc://tastytea.de/RsOypgDmSRAuOIfHRgYizzBt",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "chiaki_telephone": {
+        "body": "📱 Chiaki looks at telephone",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 17866,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/QhYSjMmAoHtWZiIWyPsvvigC",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "chiaki_thumbsup": {
+        "body": "👍 Chiaki giving thumbs up",
+        "info": {
+          "h": 351,
+          "mimetype": "image/png",
+          "size": 520968,
+          "w": 512
+        },
+        "url": "mxc://tastytea.de/IFrzLJDTJweEcEfPnoZQANCi",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "minami_beer": {
+        "body": "🍺 Minami drinks beer",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 14054,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/OTxMgRPRSjRPBbkPQBCoHxIg",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "minami_rum": {
+        "body": "Minami drinks rum",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 28672,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/nvASsjwsUeYYNJsIsVkIBEgC",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "minami_zonked": {
+        "body": "Completely zonked Minami",
+        "info": {
+          "h": 360,
+          "mimetype": "image/png",
+          "size": 499735,
+          "w": 485
+        },
+        "url": "mxc://tastytea.de/eDyHNnYYmgfUsKffcjUOoejp",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko": {
+        "body": "Nadeshiko",
+        "info": {
+          "h": 253,
+          "mimetype": "image/png",
+          "size": 146120,
+          "w": 253
+        },
+        "url": "mxc://tastytea.de/iCujdSXncBaJKtiynHGhlyHp"
+      },
+      "nadeshiko_accomplishment": {
+        "body": "Nadeshiko accomplished something",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 18528,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/zQcccnLmRQzQFSKvTevMEzmv",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_angry": {
+        "body": "😠 Angry Nadeshiko",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 27622,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/cMsUlANUtiIyhGIFhwUihStj",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko_anxious": {
+        "body": "😰 Anxious Nadeshiko",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 25712,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/HFpHpdWOxtnCrdjaTsnFGFGo",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_arms_crossed": {
+        "body": "Nadeshiko with arms crossed",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 23632,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/pzJueOVUvQLBCourCFPLHRni",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_bonnet": {
+        "body": "Nadeshiko with bonnet",
+        "info": {
+          "h": 250,
+          "mimetype": "image/png",
+          "size": 165936,
+          "w": 250
+        },
+        "url": "mxc://tastytea.de/nXblIVTokNGTrAsApeVQWYQl"
+      },
+      "nadeshiko_cold": {
+        "body": "🥶 Nadeshiko is cold",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 25078,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/YeSZMnsYWfJPcFPUGqaoyZWz",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_comfy": {
+        "body": "Comfy Nadeshiko",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 13908,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/EHTOdkPkbooUfCvMKvTjNbIa",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko_crying": {
+        "body": "😭 Crying Nadeshiko",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 21470,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/sXolLFIcJqJzUjnIbNsXPbeT",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_determined": {
+        "body": "Determined Nadeshiko",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 26798,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/VRFrSzvMQWeZshZuBBncejoe",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_eating_pastry": {
+        "body": "🤤 Nadeshiko really enjoys eating pastry",
+        "info": {
+          "h": 189,
+          "mimetype": "image/png",
+          "size": 170693,
+          "w": 251
+        },
+        "url": "mxc://tastytea.de/QnhMsNRUZAwgeSFgxbCpDvxw",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko_eating_ramen": {
+        "body": "🤤 Nadeshiko eats cup ramen",
+        "info": {
+          "h": 360,
+          "mimetype": "image/png",
+          "size": 536717,
+          "w": 403
+        },
+        "url": "mxc://tastytea.de/CCDYgalmvxiullHDDJucNyjR",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko_fearful": {
+        "body": "😨Fearful Nadeshiko",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 35804,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/VHuIHxPWfbQyihycCpdYSHji",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_frown": {
+        "body": "🙁 Frowning Nadeshiko",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 26228,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/HrbgaTJlzMWOcPhDxkPtPyke",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_happy": {
+        "body": "😆 Happy Nadeshiko",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 22768,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/xgeiKgWudlcHYpaMqIYeMfYR",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko_idea": {
+        "body": "💡 Nadeshika has an idea",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 28028,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/OCxEWTULfvbnxyrfERyyQRfY",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_laughing": {
+        "body": "😆 Laughing Nadeshiko with hand behind head",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 24002,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/oKkClvpGAoXdBdDnOjWbUFEC",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_no": {
+        "body": "✋ Nadeshiko says no! (puts hand forward in stop gesture)",
+        "info": {
+          "h": 324,
+          "mimetype": "image/png",
+          "size": 610235,
+          "w": 512
+        },
+        "url": "mxc://tastytea.de/zQKugBGPARWwOZvWACXhKqun",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko_pointing_up_left": {
+        "body": "👆 Nadeshiko points upwards",
+        "info": {
+          "h": 313,
+          "mimetype": "image/png",
+          "size": 409534,
+          "w": 417
+        },
+        "url": "mxc://tastytea.de/tDxEPapsGQBRQApOlvHXaDwZ",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko_pointing_up_right": {
+        "body": "👆 Nadeshiko pointing upwards",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 23296,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/htHpFCKUGKKxvsHZserLtcBp",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko_raised_hands": {
+        "body": "👐 Nadeshiko with raised hands",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 27712,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/tBTPbmjHxpCmVGQpAEKgvnJE",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_sad": {
+        "body": "😢 Sad Nadeshiko",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 27902,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/JcFUjYZeIpcfxLFrBzVSShAq",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_sleep": {
+        "body": "💤 Sleeping Nadeshiko",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 21136,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/KRxfOlOgfzFhQGpNOxRNEWzI",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_sleeping": {
+        "body": "💤 Sleeping Nadeshiko",
+        "info": {
+          "h": 259,
+          "mimetype": "image/png",
+          "size": 598861,
+          "w": 512
+        },
+        "url": "mxc://tastytea.de/siPiacsmYKAcbPradJmAmChZ",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko_smiling": {
+        "body": "😊 Smiling Nadeshiko",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 27474,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/FeeJXLalGWtrVvkiPjeSjmGP",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko_snacks": {
+        "body": "🍫 Nadeshiko brought snacks",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 37082,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/paqEECFklllxTLgwIwamRXFF",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_stop": {
+        "body": "✋ Nadeshiko says no! (puts hand forward in stop gesture)",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 23766,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/AgrgyeFTgGhcZUFUvonKzTbJ",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_strong": {
+        "body": "💪 Strong Nadeshiko",
+        "info": {
+          "h": 64,
+          "mimetype": "image/png",
+          "size": 30570,
+          "w": 63
+        },
+        "url": "mxc://tastytea.de/DJiSsqxmHQngwBjmwSgJAIho",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko_surprised": {
+        "body": "😯 Surprised Nadeshiko",
+        "info": {
+          "h": 216,
+          "mimetype": "image/png",
+          "size": 235777,
+          "w": 289
+        },
+        "url": "mxc://tastytea.de/JKnwUnxxZDUJRxNrYEjZeNyq",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko_terrified": {
+        "body": "😱 Terrified Nadeshiko",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 29164,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/CqBgdzsqBCAXVSuIUoSmeQhs",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko_trauma": {
+        "body": "😱 Traumatised Nadeshiko (puts hand over face)",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 24230,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/pvQBIfqKXgTqyjCXcthknfMn",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_very_happy": {
+        "body": "😂 Nadeshiko is very happy",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 25268,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/GMgkvNOHGmeUxNhTnwprVccc",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "nadeshiko_victory": {
+        "body": "✌ Nadeshiko makes victory sign",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 18056,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/nXeTAcrAYqwJMhFpsjDNYOsU",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "nadeshiko_wave": {
+        "body": "👋 Waving Nadeshiko",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 24080,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/vnakXYcEGlHmoNjONKZPTTBe",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin": {
+        "body": "Rin",
+        "info": {
+          "h": 280,
+          "mimetype": "image/png",
+          "size": 153016,
+          "w": 280
+        },
+        "url": "mxc://tastytea.de/EAfhyqIiIvHwynbaZpgtDDSo"
+      },
+      "rin_annoyed": {
+        "body": "😒 Annoyed Rin",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 19184,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/CkTvxyKcSwfwpSstmujkePaB",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_astonished": {
+        "body": "😲 Astonished Rin",
+        "info": {
+          "h": 199,
+          "mimetype": "image/png",
+          "size": 146084,
+          "w": 265
+        },
+        "url": "mxc://tastytea.de/XVZJDrkXeShNKlIMvyvmYNVA",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_beanie": {
+        "body": "Rin with beanie",
+        "info": {
+          "h": 245,
+          "mimetype": "image/png",
+          "size": 123298,
+          "w": 245
+        },
+        "url": "mxc://tastytea.de/iLDlKYOtAxDcdlIUZfbKdcWO"
+      },
+      "rin_box": {
+        "body": "Rin in a cardboard box, looking attentive",
+        "info": {
+          "h": 512,
+          "mimetype": "image/png",
+          "size": 534136,
+          "w": 373
+        },
+        "url": "mxc://tastytea.de/PpVTUvFLhKoozQxNfccLjDMk",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_burn_cone": {
+        "body": "🔥 Rin burns a fir cone",
+        "info": {
+          "h": 80,
+          "mimetype": "image/png",
+          "size": 39873,
+          "w": 107
+        },
+        "url": "mxc://tastytea.de/iCayXvssmoNWjFoPWZHPlfQR",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_comfy": {
+        "body": "Comfy Rin",
+        "info": {
+          "h": 360,
+          "mimetype": "image/png",
+          "size": 403918,
+          "w": 390
+        },
+        "url": "mxc://tastytea.de/BfFCoGorVFfRCGJQXfmxmpeE",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_concentrated": {
+        "body": "Concentrated Rin",
+        "info": {
+          "h": 217,
+          "mimetype": "image/png",
+          "size": 158664,
+          "w": 289
+        },
+        "url": "mxc://tastytea.de/tnUcOZShOWnDXZMVTzHYyfnA",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_content": {
+        "body": "🙂 Content Rin",
+        "info": {
+          "h": 360,
+          "mimetype": "image/png",
+          "size": 478744,
+          "w": 480
+        },
+        "url": "mxc://tastytea.de/UIqDgxlSsBipcmXKKnmNvyxV",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_crying": {
+        "body": "😭 Crying Rin",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 18382,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/LkutIAdKdIYEvMAlCdRROvHf",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_determined_moped": {
+        "body": "Determined Rin, on a moped",
+        "info": {
+          "h": 360,
+          "mimetype": "image/png",
+          "size": 440473,
+          "w": 480
+        },
+        "url": "mxc://tastytea.de/YgRxuhkFghkmaMLxDUeDhdWh",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_discomfort": {
+        "body": "🙁 Discomforted Rin",
+        "info": {
+          "h": 360,
+          "mimetype": "image/png",
+          "size": 438469,
+          "w": 480
+        },
+        "url": "mxc://tastytea.de/qMyFhWhDltEZkNxJCqXuoZHt",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_disgusted": {
+        "body": "Disgusted Rin",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 21756,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/kypEjMQCCrYfsUXlvnTMdctX",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_frightened": {
+        "body": "😨 Frightened Rin",
+        "info": {
+          "h": 216,
+          "mimetype": "image/png",
+          "size": 206451,
+          "w": 288
+        },
+        "url": "mxc://tastytea.de/nEEcrSJzFXhLUlykpowSLZri",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_glare": {
+        "body": "Glaring Rin",
+        "info": {
+          "h": 186,
+          "mimetype": "image/png",
+          "size": 128789,
+          "w": 248
+        },
+        "url": "mxc://tastytea.de/POaooEFWPFxWCOPituBAFVSv",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_hand_over_mouth": {
+        "body": "🤭 Rin holds hand over mouth",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 22500,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/vKoSaZtckFezGsNvcrqHNSZD",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_hello": {
+        "body": "👋 Rin waves hello",
+        "info": {
+          "h": 337,
+          "mimetype": "image/png",
+          "size": 398175,
+          "w": 450
+        },
+        "url": "mxc://tastytea.de/vqZUdgsTLhLSjQaxDHkLakSu",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_knife": {
+        "body": "🔪 Rin has a knife",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 22514,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/CGiSbEmRoHztdgduMwYaZcbG",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_nervous": {
+        "body": "Nervous Rin",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 20956,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/xoDzBuAifGWvHCPLhVEOVNyw",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_not_amused": {
+        "body": "😒 Rin is not amused",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 13320,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/lGtWyVMGvVnamFHuWZhqbmuR",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_peek": {
+        "body": "Peeking Rin",
+        "info": {
+          "h": 216,
+          "mimetype": "image/png",
+          "size": 193996,
+          "w": 289
+        },
+        "url": "mxc://tastytea.de/YSQHogZLbddFVlFwmwbUgHFh",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_photo": {
+        "body": "📷 Rin makes photo",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 23634,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/BxuJBjLkwAqLvSWBRSyjHyOR",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_reading_laptop": {
+        "body": "💻 Reading Rin (on a laptop)",
+        "info": {
+          "h": 360,
+          "mimetype": "image/png",
+          "size": 369717,
+          "w": 480
+        },
+        "url": "mxc://tastytea.de/NMKpDlooWZeYRkfvFdoANDqD",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_sleeping": {
+        "body": "💤 Sleeping Rin",
+        "info": {
+          "h": 97,
+          "mimetype": "image/png",
+          "size": 28031,
+          "w": 129
+        },
+        "url": "mxc://tastytea.de/UxnZwDBxWtvEoVMVCNGyvZMt",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_smirking": {
+        "body": "😏 Smirking Rin",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 21116,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/ioWRlTcMpmFyOKlZpkxZKOHI",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_sneeze": {
+        "body": "🤧 Sneezing Rin",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 17752,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/PdHxqFMmHORoZQLgGqPGxXgm",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_soup": {
+        "body": "🍜 Rin eats soup",
+        "info": {
+          "h": 216,
+          "mimetype": "image/png",
+          "size": 202289,
+          "w": 288
+        },
+        "url": "mxc://tastytea.de/uOyroPYVOgsrIRFmiiKWPrqg",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_stare": {
+        "body": "Staring Rin",
+        "info": {
+          "h": 200,
+          "mimetype": "image/png",
+          "size": 160919,
+          "w": 267
+        },
+        "url": "mxc://tastytea.de/QSUJoxExyvLLWGpgmKGtONNU",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_tea": {
+        "body": "☕ Tea-drinking Rin",
+        "info": {
+          "h": 216,
+          "mimetype": "image/png",
+          "size": 280953,
+          "w": 288
+        },
+        "url": "mxc://tastytea.de/hXEUkpEREosgGSRfscWEbvKu",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_telephone": {
+        "body": "📱 Rin looks at telephone",
+        "info": {
+          "h": 360,
+          "mimetype": "image/png",
+          "size": 385376,
+          "w": 480
+        },
+        "url": "mxc://tastytea.de/BvWiwlmvLhkTWulvIkhsRZFj",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_terrified": {
+        "body": "😱 Terrified Rin",
+        "info": {
+          "h": 256,
+          "mimetype": "image/webp",
+          "size": 15976,
+          "w": 256
+        },
+        "url": "mxc://tastytea.de/VLaqARJPrODACRtCAkSTzszs",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      },
+      "rin_thinking": {
+        "body": "🤔 Thinking Rin",
+        "info": {
+          "h": 360,
+          "mimetype": "image/png",
+          "size": 484445,
+          "w": 461
+        },
+        "url": "mxc://tastytea.de/aLDnntkfCQjRfWzBKYmasoEp",
+        "usage": [
+          "sticker"
+        ]
+      },
+      "rin_yelling": {
+        "body": "Yelling Rin",
+        "info": {
+          "h": 238,
+          "mimetype": "image/png",
+          "size": 182131,
+          "w": 317
+        },
+        "url": "mxc://tastytea.de/fpFTddDNOEyVZBUdMjGNqIKf",
+        "usage": [
+          "sticker",
+          "emoticon"
+        ]
+      }
+    },
+    "pack": {
+      "attribution": "PolloRico, uwo, KoeNoKatachi and Free on risibank.fr; prof-kenny on deviantart.com and tumblr.com; Kagamihara Nadeshiko on signalstickers.com",
+      "avatar_url": null,
+      "display_name": "Yuru Camp"
+    }
+  },
+  "origin_server_ts": 1704812421875,
+  "sender": "@tastytea:tastytea.de",
+  "state_key": "Yuru Camp",
+  "type": "im.ponies.room_emotes",
+  "unsigned": {
+    "replaces_state": "$FbHNSoP8mRLmwbsleSCsov0yON47pyZqofgHam9OS60"
+  },
+  "event_id": "$KtTspomz35a63o4r7OI-JBdIKjsytRe_sAxKw9V_his",
+  "room_id": "!zeiOoThAHmEJeAlvvI:pixie.town"
+}
