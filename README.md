@@ -14,29 +14,29 @@ The initial results of running this repo returned the following data:
 
 ```
 ➜ ./venv/bin/python ./estimate-emotes.py
-emowoji-6.json: Emotes: 260, Bytes: 36452, Bytes / Emotes: 140.20
-ksp-discord.json: Emotes: 79, Bytes: 12067, Bytes / Emotes: 152.75
-emowoji-5.json: Emotes: 260, Bytes: 36452, Bytes / Emotes: 140.20
-emowoji-2.json: Emotes: 375, Bytes: 52125, Bytes / Emotes: 139.00
-free-software.json: Emotes: 31, Bytes: 6235, Bytes / Emotes: 201.13
-yuru-camp.json: Emotes: 89, Bytes: 18186, Bytes / Emotes: 204.34
-emowoji-9.json: Emotes: 376, Bytes: 52171, Bytes / Emotes: 138.75
-blobhaj.json: Emotes: 66, Bytes: 8746, Bytes / Emotes: 132.52
-ksp-forum.json: Emotes: 21, Bytes: 4168, Bytes / Emotes: 198.48
-racoon-camp.json: Emotes: 12, Bytes: 3394, Bytes / Emotes: 282.83
-emowoji-7.json: Emotes: 375, Bytes: 52162, Bytes / Emotes: 139.10
-emowoji-10.json: Emotes: 376, Bytes: 52161, Bytes / Emotes: 138.73
-emowoji-4.json: Emotes: 83, Bytes: 12668, Bytes / Emotes: 152.63
-emowoji-8.json: Emotes: 375, Bytes: 52162, Bytes / Emotes: 139.10
-emowoji-1.json: Emotes: 376, Bytes: 52181, Bytes / Emotes: 138.78
-emowoji-3.json: Emotes: 374, Bytes: 52164, Bytes / Emotes: 139.48
+emowoji-6.json: Emotes: 260, Bytes: 36429, Bytes / Emotes: 140.11
+ksp-discord.json: Emotes: 79, Bytes: 12044, Bytes / Emotes: 152.46
+emowoji-5.json: Emotes: 260, Bytes: 36429, Bytes / Emotes: 140.11
+emowoji-2.json: Emotes: 375, Bytes: 52102, Bytes / Emotes: 138.94
+free-software.json: Emotes: 31, Bytes: 6212, Bytes / Emotes: 200.39
+yuru-camp.json: Emotes: 89, Bytes: 18163, Bytes / Emotes: 204.08
+emowoji-9.json: Emotes: 376, Bytes: 52148, Bytes / Emotes: 138.69
+blobhaj.json: Emotes: 66, Bytes: 8723, Bytes / Emotes: 132.17
+ksp-forum.json: Emotes: 21, Bytes: 4145, Bytes / Emotes: 197.38
+racoon-camp.json: Emotes: 12, Bytes: 3371, Bytes / Emotes: 280.92
+emowoji-7.json: Emotes: 375, Bytes: 52139, Bytes / Emotes: 139.04
+emowoji-10.json: Emotes: 376, Bytes: 52138, Bytes / Emotes: 138.66
+emowoji-4.json: Emotes: 83, Bytes: 12645, Bytes / Emotes: 152.35
+emowoji-8.json: Emotes: 375, Bytes: 52139, Bytes / Emotes: 139.04
+emowoji-1.json: Emotes: 376, Bytes: 52158, Bytes / Emotes: 138.72
+emowoji-3.json: Emotes: 374, Bytes: 52141, Bytes / Emotes: 139.41
 
-Average bytes / emote: 161.12
+Average bytes / emote: 160.78
 Max count in pack data: 376
-Max emotes that can fit in 65536 bytes: 406
+Max emotes that can fit in 65536 bytes: 407
 ```
 
-Meaning that ~406 emotes could fit into a single state event (image pack).
+Meaning that ~407 emotes could fit into a single state event (image pack).
 
 ---
 
